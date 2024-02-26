@@ -1092,6 +1092,69 @@
         }
     },
     {
+        "title": "Severodonetsk",
+        "cords": {
+            "lat": 48.9493,
+            "long": 38.4923
+        }
+    },
+    {
+        "title": "Lisichansk",
+        "cords": {
+            "lat": 48.9121,
+            "long": 38.429
+        }
+    },
+    {
+        "title": "Bakhmut",
+        "cords": {
+            "lat": 48.589,
+            "long": 38.002
+        }
+    },
+    {
+        "title": "Kramatorsk",
+        "cords": {
+            "lat": 48.7388,
+            "long": 37.5851
+        }
+    },
+    {
+        "title": "Slavyansk",
+        "cords": {
+            "lat": 48.8523,
+            "long": 37.6057
+        }
+    },
+    {
+        "title": "Alchevsk",
+        "cords": {
+            "lat": 48.4677,
+            "long": 38.7933
+        }
+    },
+    {
+        "title": "Izyum",
+        "cords": {
+            "lat": 49.2186,
+            "long": 37.2684
+        }
+    },
+    {
+        "title": "Chuguev",
+        "cords": {
+            "lat": 49.8384,
+            "long": 36.6869
+        }
+    },
+    {
+        "title": "Lozovaya",
+        "cords": {
+            "lat": 48.8854,
+            "long": 36.318
+        }
+    },
+    {
         "title": "Lugansk",
         "cords": {
             "lat": 48.5723,
@@ -1169,10 +1232,45 @@
         }
     },
     {
+        "title": "Melitopol",
+        "cords": {
+            "lat": 46.8423,
+            "long": 35.3736
+        }
+    },
+    {
+        "title": "Berdyansk",
+        "cords": {
+            "lat": 46.7557,
+            "long": 36.7896
+        }
+    },
+    {
+        "title": "Energodar",
+        "cords": {
+            "lat": 47.4905,
+            "long": 34.6622
+        }
+    },
+    {
         "title": "Dnieper",
         "cords": {
             "lat": 48.4644,
             "long": 35.0457
+        }
+    },
+    {
+        "title": "Kherson",
+        "cords": {
+            "lat": 46.6402,
+            "long": 32.6147
+        }
+    },
+    {
+        "title": "Mykolaiv",
+        "cords": {
+            "lat": 46.9759,
+            "long": 31.9936
         }
     },
     {

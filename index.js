@@ -28,7 +28,7 @@ app.post('/town', async (req, res) => {
     let {title} = req.body
     let percent = req.body.percent === undefined ? DEFAULT_PERCENT : req.body.percent
 
-    let town = towns.find(el => centum.search(el.title, title, percent))
+    let town = towns.find(el => centum.search(el.title, title, percent, true))
 
     if (town !== undefined) {
         res.send(town)
