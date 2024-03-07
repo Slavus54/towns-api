@@ -10,8 +10,10 @@ Web-server was built on *ExpressJS*, also has middlewares (includes CORS), data 
 
 ### URLs  
 
-*https://towns-api.onrender.com* - base URL  
+*https://towns-api.onrender.com* - base URL    
 
-*https://towns-api.onrender.com/towns* - list of towns  
+*https://towns-api.onrender.com/towns* - list of towns    
 
-*https://towns-api.onrender.com/town* - find of town by title (options is an object with title and percent - % of title's length comparison)  
+*https://towns-api.onrender.com/town/:title* - sliced list of towns   
+
+*https://towns-api.onrender.com/towns-fragment/:start&:end* - find of town by title   
