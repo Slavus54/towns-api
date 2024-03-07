@@ -1,0 +1,50 @@
+openapi: 3.0.3
+info: 
+  title: "Towns-API Documentation"
+  version: 1.0.0
+paths: 
+  /towns:
+      get:
+          summary: "List of european towns"
+          responses: 
+              "200": 
+                description: "Return array of towns"
+      
+  /towns-fragment/:start&:end:
+      get:
+          summary: "Sliced list of european towns"
+          responses: 
+              "200": 
+                description: "Return sliced array of towns"
+          parameters:
+            - name: "start"
+              description: "Start index of array"
+              in: query
+              required: true
+              schema:
+                type: integer
+            - name: "end"
+              description: "Last index of array"
+              in: query
+              required: true
+              schema:
+                type: integer
+  /town/:title:
+      get:
+          summary: "Object of european town"
+          parameters:
+            - name: "title"
+              description: "Title of town"
+              in: query
+              required: true
+              schema:
+                type: string
+          responses: 
+              "200": 
+                description: "Return town object with title and coordinates"
+              "404":
+                description: "Return status 404"
+         
+servers: 
+- url: https://towns-api.onrender.com
+  description: "Base URL"

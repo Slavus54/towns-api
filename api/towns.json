@@ -1071,6 +1071,27 @@
         }
     },
     {
+        "title": "Chuguev",
+        "cords": {
+            "lat": 49.8382,
+            "long": 36.6902
+        }
+    },
+    {
+        "title": "Pesochin",
+        "cords": {
+            "lat": 49.9553,
+            "long": 36.0941
+        }
+    },
+    {
+        "title": "Bogodukhov",
+        "cords": {
+            "lat": 50.1621,
+            "long": 35.5261
+        }
+    },
+    {
         "title": "Kyiv",
         "cords": {
             "lat": 50.4495,
@@ -1141,13 +1162,6 @@
         }
     },
     {
-        "title": "Chuguev",
-        "cords": {
-            "lat": 49.8384,
-            "long": 36.6869
-        }
-    },
-    {
         "title": "Lozovaya",
         "cords": {
             "lat": 48.8854,
@@ -1199,8 +1213,43 @@
     {
         "title": "Sumy",
         "cords": {
-            "lat": 50.91015,
+            "lat": 50.9101,
             "long": 34.7961
+        }
+    },
+    {
+        "title": "Glukhov",
+        "cords": {
+            "lat": 51.6774,
+            "long": 33.9133
+        }
+    },
+    {
+        "title": "Novgorod-Seversky",
+        "cords": {
+            "lat": 52.001,
+            "long": 33.2724
+        }
+    },
+    {
+        "title": "Shostka",
+        "cords": {
+            "lat": 51.8648,
+            "long": 33.4871
+        }
+    },
+    {
+        "title": "Romny",
+        "cords": {
+            "lat": 50.7509,
+            "long": 33.4856
+        }
+    },
+    {
+        "title": "Okhtyrka",
+        "cords": {
+            "lat": 50.3003,
+            "long": 34.8907
         }
     },
     {
@@ -1449,6 +1498,41 @@
         }
     },
     {
+        "title": "Polotsk",
+        "cords": {
+            "lat": 55.4846,
+            "long": 28.7785
+        }
+    },
+    {
+        "title": "Orsha",
+        "cords": {
+            "lat": 54.5108,
+            "long": 30.4295
+        }
+    },
+    {
+        "title": "Borisov",
+        "cords": {
+            "lat": 54.2462,
+            "long": 28.5058
+        }
+    },
+    {
+        "title": "Molodechno",
+        "cords": {
+            "lat": 54.3074,
+            "long": 26.8396
+        }
+    },
+    {
+        "title": "Cherven",
+        "cords": {
+            "lat": 53.7145,
+            "long": 28.4187
+        }
+    },
+    {
         "title": "Vitebsk",
         "cords": {
             "lat": 55.1959,
@@ -1460,6 +1544,41 @@
         "cords": {
             "lat": 53.8948,
             "long": 30.3307
+        }
+    },
+    {
+        "title": "Cherven",
+        "cords": {
+            "lat": 53.7145,
+            "long": 28.4187
+        }
+    },
+    {
+        "title": "Bobruisk",
+        "cords": {
+            "lat": 53.1335,
+            "long": 29.2279
+        }
+    },
+    {
+        "title": "Rogachev",
+        "cords": {
+            "lat": 53.0822,
+            "long": 30.0528
+        }
+    },
+    {
+        "title": "Zhlobin",
+        "cords": {
+            "lat": 52.8924,
+            "long": 30.0379
+        }
+    },
+    {
+        "title": "Rechitsa",
+        "cords": {
+            "lat": 52.3724,
+            "long": 30.388
         }
     },
     {
@@ -1484,10 +1603,87 @@
         }
     },
     {
+        "title": "Lida",
+        "cords": {
+            "lat": 53.8874,
+            "long": 25.3027
+        }
+    },
+    {
+        "title": "Novogrudok",
+        "cords": {
+            "lat": 53.6016,
+            "long": 25.8276
+        }
+    },
+    {
+        "title": "Smorgon",
+        "cords": {
+            "lat": 54.4814,
+            "long": 26.4019
+        }
+    },
+    {
+        "title": "Nesvizh",
+        "cords": {
+            "lat": 53.2189,
+            "long": 26.6815
+        }
+    },
+    {
+        "title": "Slonim",
+        "cords": {
+            "lat": 53.0928,
+            "long": 25.3195
+        }
+    },
+    {
+        "title": "Baranovichi",
+        "cords": {
+            "lat": 53.1347,
+            "long": 26.0146
+        }
+    },
+    {
         "title": "Grodno",
         "cords": {
             "lat": 53.6782,
             "long": 23.8308
+        }
+    },
+    {
+        "title": "Slutsk",
+        "cords": {
+            "lat": 53.0275,
+            "long": 27.5529
+        }
+    },
+    {
+        "title": "Soligorsk",
+        "cords": {
+            "lat": 52.7873,
+            "long": 27.5255
+        }
+    },
+    {
+        "title": "Luninets",
+        "cords": {
+            "lat": 52.2566,
+            "long": 26.7977
+        }
+    },
+    {
+        "title": "Pinsk",
+        "cords": {
+            "lat": 52.1116,
+            "long": 26.1027
+        }
+    },
+    {
+        "title": "Kobrin",
+        "cords": {
+            "lat": 52.2127,
+            "long": 24.3578
         }
     },
     {
