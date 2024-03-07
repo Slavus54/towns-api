@@ -38,9 +38,8 @@ app.get('/towns-fragment/:start&:end', async (req, res) => {
 
 app.get('/town/:title', async (req, res) => {
     let {title} = req.params
-    let percent = req.body.percent === undefined ? process.env.SEARCH_PERCENT : req.body.percent
 
-    let town = towns.find(el => centum.search(el.title, title, percent, true))
+    let town = towns.find(el => centum.search(el.title, title, process.env.SEARCH_PERCENT, true))
 
     if (town !== undefined) {
         res.send(town)
