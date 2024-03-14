@@ -16,4 +16,8 @@ Web-server was built on *ExpressJS*, also has middlewares (includes CORS), data 
 
 *https://towns-api.onrender.com/town/:title* - sliced list of towns   
 
-*https://towns-api.onrender.com/towns-fragment/:start&:end* - find of town by title   
+*https://towns-api.onrender.com/towns-fragment/:start&:end* - find of town by title     
+
+*https://towns-api.onrender.com/timezones* - list of european towns's timezones   
+
+*https://towns-api.onrender.com/capitals* - list of european capitals with additional information  
