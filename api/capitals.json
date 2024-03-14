@@ -1,0 +1,112 @@
+[
+    {
+        "title": "Warsaw",
+        "country": "Poland",
+        "population": 1863,
+        "foundedIn": "XIII",
+        "cords": {
+            "lat": 52.2477,
+            "long": 21.0139
+        }
+    },
+    {
+        "title": "Vilnius",
+        "country": "Lithuania",
+        "population": 581,
+        "foundedIn": "XIII",
+        "cords": {
+            "lat": 54.6782,
+            "long": 25.2873
+        }
+    },
+    {
+        "title": "Riga",
+        "country": "Latvia",
+        "population": 609,
+        "foundedIn": "XIII",
+        "cords": {
+            "lat": 56.9468,
+            "long": 24.1062
+        }
+    },
+    {
+        "title": "Tallinn",
+        "country": "Estonia",
+        "population": 453,
+        "foundedIn": "XII",
+        "cords": {
+            "lat": 59.4374,
+            "long": 24.7454
+        }
+    },
+    {
+        "title": "Bratislava",
+        "country": "Slovakia",
+        "population": 475,
+        "foundedIn": "X",
+        "cords": {
+            "lat": 48.1429,
+            "long": 17.1008
+        }
+    },
+    {
+        "title": "Budapest",
+        "country": "Hungary",
+        "population": 1709,
+        "foundedIn": "IX",
+        "cords": {
+            "lat": 47.4956,
+            "long": 19.0397
+        }
+    },
+    {
+        "title": "Bucharest",
+        "country": "Romania",
+        "population": 1835,
+        "foundedIn": "XV",
+        "cords": {
+            "lat": 44.4315,
+            "long": 26.097
+        }
+    },
+    {
+        "title": "Sofia",
+        "country": "Bulgaria",
+        "population": 1379,
+        "foundedIn": "I",
+        "cords": {
+            "lat": 42.6966,
+            "long": 23.3213
+        }
+    },
+    {
+        "title": "Minsk",
+        "country": "Belarus",
+        "population": 1995,
+        "foundedIn": "XI",
+        "cords": {
+            "lat": 53.9025,
+            "long": 27.562
+        }
+    },
+    {
+        "title": "Kyiv",
+        "country": "Ukraine",
+        "population": 2950,
+        "foundedIn": "VI",
+        "cords": {
+            "lat": 50.4502,
+            "long": 30.5243
+        }
+    },
+    {
+        "title": "Moscow",
+        "country": "Russia",
+        "population": 13104,
+        "foundedIn": "XII",
+        "cords": {
+            "lat": 55.7541,
+            "long": 37.6204
+        }
+    }
+]

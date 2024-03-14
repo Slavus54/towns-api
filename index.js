@@ -1,12 +1,21 @@
 require('dotenv').config()
 
+// files
+
+const towns = require('./api/towns.json')
+const timezones = require('./api/timezones.json')
+const capitals = require('./api/capitals.json')
+
+// libs
+
 const app = require('express')()
 const bodyParser = require('body-parser')
 const cors = require('cors')
 const Centum = require('centum.js')
-const towns = require('./api/towns.json')
 
 const centum = new Centum()
+
+// options
 
 const PORT = process.env.PORT
 const length = towns.length
@@ -46,6 +55,14 @@ app.get('/town/:title', async (req, res) => {
     } else {
         res.sendStatus(404)
     }
+})
+
+app.get('/timezones', async (req, res) => {
+    res.send(timezones)
+})
+
+app.get('/capitals', async (req, res) => {
+    res.send(capitals)
 })
 
 app.listen(PORT, () => console.log(`Server started on port ${PORT}`))

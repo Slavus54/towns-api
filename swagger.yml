@@ -1,7 +1,7 @@
 openapi: 3.0.3
 info: 
   title: "Towns-API Documentation"
-  version: 1.0.0
+  version: 1.0.1
 paths: 
   /towns:
       get:
@@ -44,7 +44,18 @@ paths:
                 description: "Return town object with title and coordinates"
               "404":
                 description: "Return status 404"
-         
+  /timezones:
+      get:
+        summary: "Timezones european towns"
+        responses:
+          "200": 
+            description: "Returns list of timezones with UTC"
+  /capitals:
+      get:
+        summary: "Capitals of european countries with additional information"
+        responses:
+          "200": 
+            description: "Returns list of european capitals"
 servers: 
 - url: https://towns-api.onrender.com
   description: "Base URL"
