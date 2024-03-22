@@ -5,6 +5,7 @@ require('dotenv').config()
 const towns = require('./api/towns.json')
 const timezones = require('./api/timezones.json')
 const capitals = require('./api/capitals.json')
+const cathedrals = require('./api/cathedrals.json')
 
 // libs
 
@@ -63,6 +64,10 @@ app.get('/timezones', async (req, res) => {
 
 app.get('/capitals', async (req, res) => {
     res.send(capitals)
+})
+
+app.get('/cathedrals', async (req, res) => {
+    res.send(cathedrals)
 })
 
 app.listen(PORT, () => console.log(`Server started on port ${PORT}`))

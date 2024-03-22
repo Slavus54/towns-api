@@ -6,9 +6,9 @@
   "scripts": {
     "dev": "nodemon index.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["API", "Towns", "Geo", "Map"],
+  "author": "Slavus54",
+  "license": "NSTU",
   "dependencies": {
     "body-parser": "^1.20.2",
     "centum.js": "^2.1.0",

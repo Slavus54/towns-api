@@ -56,6 +56,12 @@ paths:
         responses:
           "200": 
             description: "Returns list of european capitals"
+  /cathedrals:
+      get:
+          summary: "List of european cathedrals with interesting information"
+          responses: 
+              "200": 
+                description: "Return array of cathedrals"
 servers: 
 - url: https://towns-api.onrender.com
   description: "Base URL"
