@@ -2,11 +2,13 @@
 
 ### Description  
 
-Little public API about european towns with search, filter and etc.  
+Open REST API about european towns and context of them: old cathedrals.  
 
-### Technologies
+You can find any of 300 towns with rapidly search of *centum.js* library.    
 
-Web-server was built on *ExpressJS*, also has middlewares (includes CORS), data operations provided by library *centum.js*.  
+### Technologies  
+
+Server was built on *ExpressJS* with middlewares.    
 
 ### URLs  
 
@@ -20,4 +22,6 @@ Web-server was built on *ExpressJS*, also has middlewares (includes CORS), data 
 
 *https://towns-api.onrender.com/timezones* - list of european towns's timezones   
 
-*https://towns-api.onrender.com/capitals* - list of european capitals with additional information  
+*https://towns-api.onrender.com/capitals* - list of european capitals with additional information    
+
+*https://towns-api.onrender.com/cathedrals* - oldest european cathedrals of many towns with interesting information  
