@@ -19,7 +19,7 @@ const centum = new Centum()
 // options
 
 const PORT = process.env.PORT
-const length = towns.length
+const length = towns.length  
 
 // middlewares
 

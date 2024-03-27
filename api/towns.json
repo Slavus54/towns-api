@@ -1,4 +1,85 @@
 [
+    {"title": "Moscow", "translation": "Москва", "cords": {"lat": 55.7542, "long": 37.6204}},
+    {"title": "Saint Petersburg", "translation": "Санкт-Петербург", "cords": {"lat": 59.939, "long": 30.3161}},
+    {"title": "Maykop", "translation": "Майкоп", "cords": {"lat": 44.6067, "long": 40.1057}},
+    {"title": "Gorno-Altaysk", "translation": "Горно-Алтайск", "cords": {"lat": 51.9579, "long": 85.96}},
+    {"title": "Ufa", "translation": "Уфа", "cords": {"lat": 54.7261, "long": 55.9448}},
+    {"title": "Ulan-Ude", "translation": "Улан-Удэ", "cords": {"lat": 51.8334, "long": 107.5831}},
+    {"title": "Grozny", "translation": "Грозный", "cords": {"lat": 43.3176, "long": 45.6939}},
+    {"title": "Cheboksary", "translation": "Чебоксары", "cords": {"lat": 56.1232, "long": 47.2555}},
+    {"title": "Makhachkala", "translation": "Махачкала", "cords": {"lat": 42.9831, "long": 47.5046}},
+    {"title": "Magas", "translation": "Магас", "cords": {"lat": 43.1669, "long": 44.8021}},
+    {"title": "Nalchik", "translation": "Нальчик", "cords": {"lat": 43.4854, "long": 43.6068}},
+    {"title": "Elista", "translation": "Элиста", "cords": {"lat": 46.3079, "long": 44.2698}},
+    {"title": "Cherkessk", "translation": "Черкесск", "cords": {"lat": 44.2278, "long": 42.0469}},
+    {"title": "Petrozavodsk", "translation": "Петрозаводск", "cords": {"lat": 61.7849, "long": 34.3466}},
+    {"title": "Abakan", "translation": "Абакан", "cords": {"lat": 53.7215, "long": 91.4422}},
+    {"title": "Syktyvkar", "translation": "Сыктывкар", "cords": {"lat": 61.6686, "long": 50.836}},
+    {"title": "Yoshkar-Ola", "translation": "Йошкар-Ола", "cords": {"lat": 56.6309, "long": 47.8909}},
+    {"title": "Saransk", "translation": "Саранск", "cords": {"lat": 54.1872, "long": 45.184}},
+    {"title": "Vladikavkaz", "translation": "Владикавказ", "cords": {"lat": 43.0306, "long": 44.6806}},
+    {"title": "Yakutsk", "translation": "Якутск", "cords": {"lat": 62.0273, "long": 129.7324}},
+    {"title": "Kazan", "translation": "Казань", "cords": {"lat": 55.8001, "long": 49.1056}},
+    {"title": "Kyzyl", "translation": "Кызыл", "cords": {"lat": 51.719, "long": 94.4294}},
+    {"title": "Izhevsk", "translation": "Ижевск", "cords": {"lat": 56.8441, "long": 53.2003}},
+    {"title": "Barnaul", "translation": "Барнаул", "cords": {"lat": 53.3472, "long": 83.7773}},
+    {"title": "Petropavlovsk-Kamchatsky", "translation": "Петропавловск-Камчатский", "cords": {"lat": 53.0243, "long": 0}},
+    {"title": "Khabarovsk", "translation": "Хабаровск", "cords": {"lat": 48.4726, "long": 135.0569}},
+    {"title": "Krasnodar", "translation": "Краснодар", "cords": {"lat": 45.0247, "long": 38.9707}},
+    {"title": "Krasnoyarsk", "translation": "Красноярск", "cords": {"lat": 56.0105, "long": 92.8529}},
+    {"title": "Perm", "translation": "Пермь", "cords": {"lat": 58.0159, "long": 56.2341}},
+    {"title": "Vladivostok", "translation": "Владивосток", "cords": {"lat": 43.1157, "long": 131.8855}},
+    {"title": "Stavropol", "translation": "Ставрополь", "cords": {"lat": 45.0429, "long": 41.9651}},
+    {"title": "Chita", "translation": "Чита", "cords": {"lat": 52.0333, "long": 113.5009}},
+    {"title": "Blagoveshchensk", "translation": "Благовещенск", "cords": {"lat": 50.2578, "long": 127.5348}},
+    {"title": "Arkhangelsk", "translation": "Архангельск", "cords": {"lat": 64.5399, "long": 40.5159}},
+    {"title": "Astrakhan", "translation": "Астрахань", "cords": {"lat": 46.3479, "long": 48.0329}},
+    {"title": "Belgorod", "translation": "Белгород", "cords": {"lat": 50.5955, "long": 36.5874}},
+    {"title": "Bryansk", "translation": "Брянск", "cords": {"lat": 53.2436, "long": 34.3632}},
+    {"title": "Chelyabinsk", "translation": "Челябинск", "cords": {"lat": 55.1654, "long": 61.4006}},
+    {"title": "Irkutsk", "translation": "Иркутск", "cords": {"lat": 52.2873, "long": 104.2811}},
+    {"title": "Ivanovo", "translation": "Иваново", "cords": {"lat": 56.9988, "long": 40.9731}},
+    {"title": "Kaliningrad", "translation": "Калининград", "cords": {"lat": 54.7064, "long": 20.5123}},
+    {"title": "Kaluga", "translation": "Калуга", "cords": {"lat": 54.5151, "long": 36.2581}},
+    {"title": "Kemerovo", "translation": "Кемерово", "cords": {"lat": 55.3547, "long": 86.0885}},
+    {"title": "Kirov", "translation": "Киров", "cords": {"lat": 58.6035, "long": 49.6669}},
+    {"title": "Kostroma", "translation": "Котрома", "cords": {"lat": 57.7681, "long": 40.9273}},
+    {"title": "Kurgan", "translation": "Курган", "cords": {"lat": 55.4365, "long": 65.3536}},
+    {"title": "Kursk", "translation": "Курск", "cords": {"lat": 51.7308, "long": 36.1929}},
+    {"title": "Lipetsk", "translation": "Липецк", "cords": {"lat": 52.6051, "long": 39.5928}},
+    {"title": "Magadan", "translation": "Магадан", "cords": {"lat": 59.5668, "long": 150.8122}},
+    {"title": "Murmansk", "translation": "Мурманск", "cords": {"lat": 68.9706, "long": 33.0742}},
+    {"title": "Nizhny Novgorod", "translation": "Нижний Новгород", "cords": {"lat": 56.3277, "long": 44.0033}},
+    {"title": "Veliky Novgorod", "translation": "Великий Новгород", "cords": {"lat": 58.5216, "long": 31.2754}},
+    {"title": "Novosibirsk", "translation": "Новосибирск", "cords": {"lat": 55.0301, "long": 82.9206}},
+    {"title": "Omsk", "translation": "Омск", "cords": {"lat": 54.9898, "long": 73.3653}},
+    {"title": "Orenburg", "translation": "Оренбург", "cords": {"lat": 51.7684, "long": 55.0969}},
+    {"title": "Oryol", "translation": "Орёл", "cords": {"lat": 52.9709, "long": 36.0641}},
+    {"title": "Penza", "translation": "Пенза", "cords": {"lat": 53.184, "long": 45.0124}},
+    {"title": "Pskov", "translation": "Псков", "cords": {"lat": 57.8221, "long": 28.3294}},
+    {"title": "Rostov-on-Don", "translation": "Ростов на Дону", "cords": {"lat": 47.2223, "long": 39.7193}},
+    {"title": "Ryazan", "translation": "Рязань", "cords": {"lat": 54.6331, "long": 39.7434}},
+    {"title": "Samara", "translation": "Самара", "cords": {"lat": 53.1856, "long": 50.0875}},
+    {"title": "Saratov", "translation": "Саратов", "cords": {"lat": 51.5335, "long": 46.0347}},
+    {"title": "Yuzhno-Sakhalinsk", "translation": "Южно-Сахалинск", "cords": {"lat": 46.9578, "long": 142.7296}},
+    {"title": "Yekaterinburg", "translation": "Екатеринбург", "cords": {"lat": 56.8385, "long": 60.6069}},
+    {"title": "Smolensk", "translation": "Смоленск", "cords": {"lat": 54.782, "long": 32.0466}},
+    {"title": "Tambov", "translation": "Тамбов", "cords": {"lat": 52.7214, "long": 41.4524}},
+    {"title": "Tomsk", "translation": "Томск", "cords": {"lat": 56.4881, "long": 84.949}},
+    {"title": "Tula", "translation": "Тула", "cords": {"lat": 54.1951, "long": 37.6198}},
+    {"title": "Tver", "translation": "Тверь", "cords": {"lat": 56.8588, "long": 35.9174}},
+    {"title": "Tyumen", "translation": "Тюмень", "cords": {"lat": 57.1596, "long": 65.5285}},
+    {"title": "Ulyanovsk", "translation": "Ульяновск", "cords": {"lat": 54.3187, "long": 48.3978}},
+    {"title": "Vladimir", "translation": "Владимир", "cords": {"lat": 56.1277, "long": 40.4089}},
+    {"title": "Volgograd", "translation": "Волгоград", "cords": {"lat": 48.7094, "long": 44.514}},
+    {"title": "Vologda", "translation": "Вологда", "cords": {"lat": 59.2196, "long": 39.8929}},
+    {"title": "Voronezh", "translation": "Воронеж", "cords": {"lat": 51.6608, "long": 39.2005}},
+    {"title": "Yaroslavl", "translation": "Ярославль", "cords": {"lat": 57.6263, "long": 39.8848}},
+    {"title": "Birobidzhan", "translation": "Биробиджан", "cords": {"lat": 48.7886, "long": 132.9354}},
+    {"title": "Anadyr", "translation": "Анадырь", "cords": {"lat": 64.736, "long": 177.5197}},
+    {"title": "Khanty-Mansiysk", "translation": "Ханты-Мансийск", "cords": {"lat": 61.0031, "long": 69.0189}},
+    {"title": "Naryan-Mar", "translation": "Нарьян-Мар", "cords": {"lat": 67.6776, "long": 53.1289}},
+    {"title": "Salekhard", "translation": "Салехард", "cords": {"lat": 66.5224, "long": 66.5899}},
     {
         "title": "Prague",
         "translation": "Прага",
@@ -1900,62 +1981,6 @@
         "cords": {
             "lat": 52.2127,
             "long": 24.3578
-        }
-    },
-    {
-        "title": "Moscow",
-        "translation": "Москва",
-        "cords": {
-            "lat": 55.7542,
-            "long": 37.6206
-        }
-    },
-    {
-        "title": "Saint Petersburg",
-        "translation": "Санкт-Петербург",
-        "cords": {
-            "lat": 59.9393,
-            "long": 30.3157
-        }
-    },
-    {
-        "title": "Novosibirsk",
-        "translation": "Новосибирск",
-        "cords": {
-            "lat": 55.0299,
-            "long": 82.9205
-        }
-    },
-    {
-        "title": "Omsk",
-        "translation": "Омск",
-        "cords": {
-            "lat": 54.9902,
-            "long": 73.3663
-        }
-    },
-    {
-        "title": "Tomsk",
-        "translation": "Томск",
-        "cords": {
-            "lat": 56.4883,
-            "long": 84.9481
-        }
-    },
-    {
-        "title": "Krasnoyarsk",
-        "translation": "Красноярск",
-        "cords": {
-            "lat": 56.0117,
-            "long": 92.8653
-        }
-    },
-    {
-        "title": "Irkutsk",
-        "translation": "Иркутск",  
-        "cords": {
-            "lat": 52.2802,
-            "long": 104.2824
         }
     },
     {
