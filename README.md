@@ -4,7 +4,7 @@
 
 Open REST API about european towns and context of them: old cathedrals.  
 
-You can find any of 300 towns with rapidly search of *centum.js* library.    
+You can use geocoding data for more than 400 european towns.   
 
 ### Technologies  
 
