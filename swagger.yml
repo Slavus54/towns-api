@@ -1,0 +1,74 @@
+openapi: 3.0.3
+info: 
+  title: "Towns-API Documentation"
+  version: 1.0.1
+paths: 
+  /towns:
+      get:
+          summary: "List of european towns"
+          responses: 
+              "200": 
+                description: "Return array of towns (ENG + RUS)"
+      
+  /towns-fragment/:start&:end:
+      get:
+          summary: "Sliced list of european towns"
+          responses: 
+              "200": 
+                description: "Return sliced array of towns"
+          parameters:
+            - name: "start"
+              description: "Start index of array"
+              in: query
+              required: true
+              schema:
+                type: integer
+            - name: "end"
+              description: "Last index of array"
+              in: query
+              required: true
+              schema:
+                type: integer
+  /town/:title:
+      get:
+          summary: "Object of european town"
+          parameters:
+            - name: "title"
+              description: "Title of town"
+              in: query
+              required: true
+              schema:
+                type: string
+          responses: 
+              "200": 
+                description: "Return town object with title and coordinates"
+              "404":
+                description: "Return status 404"
+  /timezones:
+      get:
+        summary: "Timezones european towns"
+        responses:
+          "200": 
+            description: "Returns list of timezones with UTC"
+  /capitals:
+      get:
+        summary: "Capitals of european countries with additional information"
+        responses:
+          "200": 
+            description: "Returns list of european capitals"
+  /cathedrals:
+      get:
+          summary: "List of european cathedrals with interesting information"
+          responses: 
+              "200": 
+                description: "Return array of cathedrals"
+
+  /fortresses:
+      get:
+          summary: "List of european fortresses with additional information"
+          responses: 
+              "200": 
+                description: "Return array of fortresses"
+servers: 
+- url: https://towns-api.onrender.com
+  description: "Base URL"

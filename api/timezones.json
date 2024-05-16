@@ -1,0 +1,178 @@
+[
+    {
+        "title": "Sofia",
+        "utc": 2,
+        "cords": {
+            "lat": 42.6967,
+            "long": 23.321
+        }
+    },
+    {
+        "title": "Kishinev",
+        "utc": 2,
+        "cords": {
+            "lat": 47.0244,
+            "long": 28.8328
+        }
+    },
+    {
+        "title": "Bucharest",
+        "utc": 3,
+        "cords": {
+            "lat": 44.432,
+            "long": 26.0971
+        }
+    },
+    {
+        "title": "Tallinn",
+        "utc": 2,
+        "cords": {
+            "lat": 59.4374,
+            "long": 24.7454
+        }
+    },
+    {
+        "title": "Vilnius",
+        "utc": 2,
+        "cords": {
+            "lat": 54.6794,
+            "long": 25.2874
+        }
+    },
+    {
+        "title": "Kaliningrad",
+        "utc": 2,
+        "cords": {
+            "lat": 54.7107,
+            "long": 20.5096
+        }
+    },
+    {
+        "title": "Riga",
+        "utc": 2,
+        "cords": {
+            "lat": 56.9466,
+            "long": 24.1053
+        }
+    },
+    {
+        "title": "Kyiv",
+        "utc": 2,
+        "cords": {
+            "lat": 50.4504,
+            "long": 30.5242
+        }
+    },
+    {
+        "title": "Minsk",
+        "utc": 3,
+        "cords": {
+            "lat": 53.9027,
+            "long": 27.5618
+        }
+    },
+    {
+        "title": "Moscow",
+        "utc": 3,
+        "cords": {
+            "lat": 55.7541,
+            "long": 37.62
+        }
+    },
+    {
+        "title": "Volgograd",
+        "utc": 3,
+        "cords": {
+            "lat": 48.7156,
+            "long": 44.5329
+        }
+    },
+    {
+        "title": "Saratov",
+        "utc": 4,
+        "cords": {
+            "lat": 51.5338,
+            "long": 46.0347
+        }
+    },
+    {
+        "title": "Samara",
+        "utc": 4,
+        "cords": {
+            "lat": 53.1862,
+            "long": 50.0881
+        }
+    },
+    {
+        "title": "Kirov",
+        "utc": 3,
+        "cords": {
+            "lat": 58.6034,
+            "long": 49.6672
+        }
+    },
+    {
+        "title": "Ekaterinburg",
+        "utc": 5,
+        "cords": {
+            "lat": 56.8384,
+            "long": 60.6047
+        }
+    },
+    {
+        "title": "Omsk",
+        "utc": 6,
+        "cords": {
+            "lat": 54.9891,
+            "long": 73.3682
+        }
+    },
+    {
+        "title": "Novosibirsk",
+        "utc": 7,
+        "cords": {
+            "lat": 55.0299,
+            "long": 82.9207
+        }
+    },
+    {
+        "title": "Barnaul",
+        "utc": 7,
+        "cords": {
+            "lat": 53.3466,
+            "long": 83.7765
+        }
+    },
+    {
+        "title": "Tomsk",
+        "utc": 7,
+        "cords": {
+            "lat": 56.4882,
+            "long": 84.9489
+        }
+    },
+    {
+        "title": "Novokuznetsk",
+        "utc": 7,
+        "cords": {
+            "lat": 53.7758,
+            "long": 87.2014
+        }
+    },
+    {
+        "title": "Krasnoyarsk",
+        "utc": 7,
+        "cords": {
+            "lat": 56.0119,
+            "long": 92.869
+        }
+    },
+    {
+        "title": "Irkutsk",
+        "utc": 8,
+        "cords": {
+            "lat": 52.2861,
+            "long": 104.2814
+        }
+    }
+]

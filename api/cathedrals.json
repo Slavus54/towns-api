@@ -1,0 +1,79 @@
+[
+    {
+        "title": "Parish Church of St. John of Matha",
+        "town": "Bratislava",
+        "country": "Slovakia",
+        "architecture": "baroque",
+        "foundedIn": "XVIII",
+        "cords": {
+            "lat": 48.1459,
+            "long": 17.1067
+        }
+    },
+    {
+        "title": "Basilica of St. Emmeram",
+        "town": "Nitra",
+        "country": "Slovakia",
+        "architecture": "gotic",
+        "foundedIn": "XIV",
+        "cords": {
+            "lat": 48.3182,
+            "long": 18.0871
+        }
+    },
+    {
+        "title": "Cathedral of the Holy Trinity",
+        "town": "Zilina",
+        "country": "Slovakia",
+        "architecture": "gotic",
+        "foundedIn": "XV",
+        "cords": {
+            "lat": 49.2243,
+            "long": 18.7405
+        }
+    },
+    {
+        "title": "Cathedral of St. John the Baptist",
+        "town": "Trnava",
+        "country": "Slovakia",
+        "architecture": "baroque",
+        "foundedIn": "XVII",
+        "cords": {
+            "lat": 48.3804,
+            "long": 17.5882
+        }
+    },
+    {
+        "title": "Cathedral of the Nativity of the Blessed Virgin Mary",
+        "town": "Kosice",
+        "country": "Slovakia",
+        "architecture": "romanesque",
+        "foundedIn": "XIX",
+        "cords": {
+            "lat": 48.7204, 
+            "long": 21.2522
+        }
+    },
+    {
+        "title": "Cathedral of St. Elizabeth of Hungary",
+        "town": "Kosice",
+        "country": "Slovakia",
+        "architecture": "gotic",
+        "foundedIn": "XIV",
+        "cords": {
+            "lat": 48.7202, 
+            "long": 21.2577
+        }
+    },
+    {
+        "title": "Cathedral of the Assumption of the Virgin Mary",
+        "town": "Rozhnava",
+        "country": "Slovakia",
+        "architecture": "gotic",
+        "foundedIn": "XIII",
+        "cords": {
+            "lat": 48.6634, 
+            "long": 20.5317
+        }
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "title": "Bratislava Castle",
+        "category": "Grad",
+        "town": "Bratislava",
+        "country": "Slovakia",
+        "century": "X",
+        "cords": {
+            "lat": 48.1423,
+            "long": 17.1001
+        }
+    },
+    {
+        "title": "Prague Castle",
+        "category": "Grad",
+        "town": "Prague",
+        "country": "Czech Republic",
+        "century": "X",
+        "cords": {
+            "lat": 50.09,
+            "long": 14.4002
+        }
+    },
+    {
+        "title": "Bran Castle",
+        "category": "Castle",
+        "town": "Brasov",
+        "country": "Romania",
+        "century": "XIII",
+        "cords": {
+            "lat": 45.515,
+            "long": 25.3669
+        }
+    },
+    {
+        "title": "Wawel Castle",
+        "category": "Castle",
+        "town": "Wawel",
+        "country": "Poland",
+        "century": "XI",
+        "cords": {
+            "lat": 50.0544,
+            "long": 19.9365
+        }
+    },
+    {
+        "title": "Royal Castle in Poznan",
+        "category": "Castle",
+        "town": "Poznan",
+        "country": "Poland",
+        "century": "XIII",
+        "cords": {
+            "lat": 52.4091,
+            "long": 16.9311
+        }
+    },
+    {
+        "title": "Kaunas Castle",
+        "category": "Castle",
+        "town": "Kaunas",
+        "country": "Lithuania",
+        "century": "XIV",
+        "cords": {
+            "lat": 54.899,
+            "long": 23.885
+        }
+    },
+    {
+        "title": "Trakai Castle",
+        "category": "Castle",
+        "town": "Trakai",
+        "country": "Lithuania",
+        "century": "XIV",
+        "cords": {
+            "lat": 54.6524,
+            "long": 24.9335
+        }
+    },
+    {
+        "title": "Mir Castle",
+        "category": "Castle",
+        "town": "Mir",
+        "country": "Belarus",
+        "century": "XVI",
+        "cords": {
+            "lat": 53.4516,
+            "long": 26.4728
+        }
+    },
+    {
+        "title": "Lida Castle",
+        "category": "Castle",
+        "town": "Lida",
+        "country": "Belarus",
+        "century": "XIV",
+        "cords": {
+            "lat": 53.8875,
+            "long": 25.3026
+        }
+    },
+    {
+        "title": "Novogrudok Castle",
+        "category": "Castle",
+        "town": "Novogrudok",
+        "country": "Belarus",
+        "century": "XIII",
+        "cords": {
+            "lat": 53.6017,
+            "long": 25.8275
+        }
+    }
+]

@@ -1,0 +1,205 @@
+[
+    {
+        "title": "Prague",
+        "country": "Czech Republic",
+        "part": "Centre",
+        "population": 1357,
+        "square": 496, 
+        "foundedIn": "XIII",
+        "cords": {
+            "lat": 50.0876,
+            "long": 14.4212
+        }
+    },
+    {
+        "title": "Warsaw",
+        "country": "Poland",
+        "part": "East",
+        "population": 1863,
+        "square": 517, 
+        "foundedIn": "XIII",
+        "cords": {
+            "lat": 52.2477,
+            "long": 21.0139
+        }
+    },
+    {
+        "title": "Vilnius",
+        "country": "Lithuania",
+        "part": "East",
+        "population": 581,
+        "square": 401, 
+        "foundedIn": "XIII",
+        "cords": {
+            "lat": 54.6782,
+            "long": 25.2873
+        }
+    },
+    {
+        "title": "Riga",
+        "country": "Latvia",
+        "part": "East",
+        "population": 609,
+        "square": 304, 
+        "foundedIn": "XIII",
+        "cords": {
+            "lat": 56.9468,
+            "long": 24.1062
+        }
+    },
+    {
+        "title": "Tallinn",
+        "country": "Estonia",
+        "part": "East",
+        "population": 453,
+        "square": 159, 
+        "foundedIn": "XII",
+        "cords": {
+            "lat": 59.4374,
+            "long": 24.7454
+        }
+    },
+    {
+        "title": "Bratislava",
+        "country": "Slovakia",
+        "part": "East",
+        "population": 475,
+        "square": 368, 
+        "foundedIn": "X",
+        "cords": {
+            "lat": 48.1429,
+            "long": 17.1008
+        }
+    },
+    {
+        "title": "Budapest",
+        "country": "Hungary",
+        "part": "East",
+        "population": 1709,
+        "square": 525, 
+        "foundedIn": "IX",
+        "cords": {
+            "lat": 47.4956,
+            "long": 19.0397
+        }
+    },
+    {
+        "title": "Bucharest",
+        "country": "Romania",
+        "part": "East",
+        "population": 1835,
+        "foundedIn": "XV",
+        "cords": {
+            "lat": 44.4315,
+            "long": 26.097
+        }
+    },
+    {
+        "title": "Sofia",
+        "country": "Bulgaria",
+        "part": "East",
+        "population": 1379,
+        "square": 492, 
+        "foundedIn": "I",
+        "cords": {
+            "lat": 42.6966,
+            "long": 23.3213
+        }
+    },
+    {
+        "title": "Belgrad",
+        "country": "Serbia",
+        "part": "East",
+        "population": 1198,
+        "square": 360, 
+        "foundedIn": "I",
+        "cords": {
+            "lat": 44.8163,
+            "long": 20.4602
+        }
+    },
+    {
+        "title": "Skopje",
+        "country": "North Macedonia",
+        "part": "East",
+        "population": 510,
+        "square": 572, 
+        "foundedIn": "I",
+        "cords": {
+            "lat": 42.0011,
+            "long": 21.4375
+        }
+    },
+    {
+        "title": "Ljubljana",
+        "country": "Slovenia",
+        "part": "Centre",
+        "population": 284,
+        "square": 164, 
+        "foundedIn": "XII",
+        "cords": {
+            "lat": 46.0488,
+            "long": 14.5085
+        }
+    },
+    {
+        "title": "Zagreb",
+        "country": "Croatia",
+        "part": "East",
+        "population": 790,
+        "square": 641, 
+        "foundedIn": "XI",
+        "cords": {
+            "lat": 45.8162,
+            "long": 15.9736
+        }
+    },
+    {
+        "title": "Athens",
+        "country": "Greece",
+        "part": "South",
+        "population": 3169,
+        "square": 412, 
+        "foundedIn": "I",
+        "cords": {
+            "lat": 37.9715,
+            "long": 23.7266
+        }
+    },
+    {
+        "title": "Minsk",
+        "country": "Belarus",
+        "part": "East",
+        "population": 1995,
+        "square": 349, 
+        "foundedIn": "XI",
+        "cords": {
+            "lat": 53.9025,
+            "long": 27.562
+        }
+    },
+    {
+        "title": "Kyiv",
+        "country": "Ukraine",
+        "part": "East",
+        "population": 2950,
+        "square": 848, 
+        "foundedIn": "VI",
+        "cords": {
+            "lat": 50.4502,
+            "long": 30.5243
+        }
+    },
+    {
+        "title": "Moscow",
+        "country": "Russia",
+        "part": "East",
+        "population": 13104,
+        "square": 2562, 
+        "foundedIn": "XII",
+        "cords": {
+            "lat": 55.7541,
+            "long": 37.6204
+        }
+    }
+]

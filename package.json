@@ -1,0 +1,21 @@
+{
+  "name": "towns-api",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "keywords": ["API", "Towns", "Geo", "Map"],
+  "author": "Slavus54",
+  "license": "NSTU",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "centum.js": "^2.1.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.4",
+    "express": "^4.18.2",
+    "node": "^21.6.2",
+    "nodemon": "^3.0.3"
+  }
+}
