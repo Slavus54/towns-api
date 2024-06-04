@@ -96,6 +96,46 @@
         }
     },
     {
+        "title": "Kharkiv",
+        "translation": "Харьков",
+        "cords": {
+            "lat": 50.0044,
+            "long": 36.2357
+        }
+    },
+    {
+        "title": "Chuguev",
+        "translation": "Чугуев",
+        "cords": {
+            "lat": 49.8382,
+            "long": 36.6902
+        }
+    },
+    {
+        "title": "Pesochin",
+        "translation": "Песочин",
+        "cords": {
+            "lat": 49.9553,
+            "long": 36.0941
+        }
+    },
+    {
+        "title": "Bogodukhov",
+        "translation": "Богодухов",
+        "cords": {
+            "lat": 50.1621,
+            "long": 35.5261
+        }
+    },
+    {
+        "title": "Kupyansk",
+        "translation": "Купянск",
+        "cords": {
+            "lat": 49.7109,
+            "long": 37.6125
+        }
+    },
+    {
         "title": "Izyum",
         "translation": "Изюм",
         "cords": {
@@ -328,6 +368,14 @@
         }
     },
     {
+        "title": "Tokmak",
+        "translation": "Токмак",
+        "cords": {
+            "lat": 47.2622,
+            "long": 35.7092
+        }
+    },
+    {
         "title": "Berdyansk",
         "translation": "Бердянск",
         "cords": {
@@ -352,6 +400,22 @@
         }
     },
     {
+        "title": "Pavlograd",
+        "translation": "Павлоград",
+        "cords": {
+            "lat": 48.5315,
+            "long": 35.87
+        }
+    },
+    {
+        "title": "Nikopol",
+        "translation": "Никополь",
+        "cords": {
+            "lat": 47.5547,
+            "long": 34.4058
+        }
+    },
+    {
         "title": "Kherson",
         "translation": "Херсон",
         "cords": {
@@ -365,6 +429,38 @@
         "cords": {
             "lat": 46.9759,
             "long": 31.9936
+        }
+    },
+    {
+        "title": "Voznesensk",
+        "translation": "Вознесенск",
+        "cords": {
+            "lat": 47.5639,
+            "long": 31.3387
+        }
+    },
+    {
+        "title": "New Bug",
+        "translation": "Новый Буг",
+        "cords": {
+            "lat": 47.6931,
+            "long": 32.5113
+        }
+    },
+    {
+        "title": "Yuzhnoukrainsk",
+        "translation": "Южноукраинск",
+        "cords": {
+            "lat": 47.8254,
+            "long": 31.1736
+        }
+    },
+    {
+        "title": "Pervomaisk",
+        "translation": "Первомайск",
+        "cords": {
+            "lat": 48.0442,
+            "long": 30.8496
         }
     },
     {
@@ -545,6 +641,8 @@
     {"title": "Izhevsk", "translation": "Ижевск", "cords": {"lat": 56.8441, "long": 53.2003}},
     {"title": "Glazov", "translation": "Глазов", "cords": {"lat": 58.1406, "long": 52.6744}},
     {"title": "Barnaul", "translation": "Барнаул", "cords": {"lat": 53.3472, "long": 83.7773}},
+    {"title": "Slavgorod", "translation": "Славгород", "cords": {"lat": 52.9971, "long": 78.6488}},
+    {"title": "Rubtsovsk", "translation": "Рубцовск", "cords": {"lat": 51.5275, "long": 81.218}},
     {"title": "Petropavlovsk-Kamchatsky", "translation": "Петропавловск-Камчатский", "cords": {"lat": 53.0243, "long": 0}},
     {"title": "Khabarovsk", "translation": "Хабаровск", "cords": {"lat": 48.4726, "long": 135.0569}},
     {"title": "Krasnodar", "translation": "Краснодар", "cords": {"lat": 45.0247, "long": 38.9707}},
@@ -595,6 +693,7 @@
     {"title": "Omsk", "translation": "Омск", "cords": {"lat": 54.9898, "long": 73.3653}},
     {"title": "Kalachinsk", "translation": "Калачинск", "cords": {"lat": 55.0529, "long": 74.5817}},
     {"title": "Tara", "translation": "Тара", "cords": {"lat": 56.9019, "long": 74.3722}},
+    {"title": "Tevriz", "translation": "Тевриз", "cords": {"lat": 57.5166, "long": 72.4045}},
     {"title": "Tobolsk", "translation": "Тобольск", "cords": {"lat": 58.1989, "long": 68.2526}},
     {"title": "Yalutorovsk", "translation": "Ялуторовск", "cords": {"lat": 56.6549, "long": 66.3125}},
     {"title": "Ishim", "translation": "Ишим", "cords": {"lat": 56.0988, "long": 69.4637}},
@@ -631,6 +730,238 @@
     {"title": "Khanty-Mansiysk", "translation": "Ханты-Мансийск", "cords": {"lat": 61.0031, "long": 69.0189}},
     {"title": "Naryan-Mar", "translation": "Нарьян-Мар", "cords": {"lat": 67.6776, "long": 53.1289}},
     {"title": "Salekhard", "translation": "Салехард", "cords": {"lat": 66.5224, "long": 66.5899}},
+    {
+        "title": "Minsk",
+        "translation": "Минск",
+        "cords": {
+            "lat": 53.9024,
+            "long": 27.5622
+        }
+    },
+    {
+        "title": "Volozhin",
+        "translation": "Воложин",
+        "cords": {
+            "lat": 54.0902,
+            "long": 26.528
+        }
+    },
+    {
+        "title": "Polotsk",
+        "translation": "Полоцк",
+        "cords": {
+            "lat": 55.4846,
+            "long": 28.7785
+        }
+    },
+    {
+        "title": "Orsha",
+        "translation": "Орша",
+        "cords": {
+            "lat": 54.5108,
+            "long": 30.4295
+        }
+    },
+    {
+        "title": "Borisov",
+        "translation": "Борисов",
+        "cords": {
+            "lat": 54.2462,
+            "long": 28.5058
+        }
+    },
+    {
+        "title": "Molodechno",
+        "translation": "Молодечно",
+        "cords": {
+            "lat": 54.3074,
+            "long": 26.8396
+        }
+    },
+    {
+        "title": "Cherven",
+        "translation": "Червень",  
+        "cords": {
+            "lat": 53.7145,
+            "long": 28.4187
+        }
+    },
+    {
+        "title": "Vitebsk",
+        "translation": "Витебск",
+        "cords": {
+            "lat": 55.1959,
+            "long": 30.2051
+        }
+    },
+    {
+        "title": "Mogilev",
+        "translation": "Могилёв",
+        "cords": {
+            "lat": 53.8948,
+            "long": 30.3307
+        }
+    },
+    {
+        "title": "Bobruisk",
+        "translation": "Бобруйск",
+        "cords": {
+            "lat": 53.1335,
+            "long": 29.2279
+        }
+    },
+    {
+        "title": "Rogachev",
+        "translation": "Рогачёв",
+        "cords": {
+            "lat": 53.0822,
+            "long": 30.0528
+        }
+    },
+    {
+        "title": "Zhlobin",
+        "translation": "Жлобин",
+        "cords": {
+            "lat": 52.8924,
+            "long": 30.0379
+        }
+    },
+    {
+        "title": "Parichi",
+        "translation": "Паричи",
+        "cords": {
+            "lat": 52.8075,
+            "long": 29.4229
+        }
+    },
+    {
+        "title": "Rechitsa",
+        "translation": "Речица",
+        "cords": {
+            "lat": 52.3724,
+            "long": 30.388
+        }
+    },
+    {
+        "title": "Gomel",
+        "translation": "Гомель",  
+        "cords": {
+            "lat": 52.426,
+            "long": 31.0140
+        }
+    },
+    {
+        "title": "Mozyr",
+        "translation": "Мозырь",  
+        "cords": {
+            "lat": 52.0474,
+            "long": 29.2655
+        }
+    },
+    {
+        "title": "Brest",
+        "translation": "Брест",  
+        "cords": {
+            "lat": 52.0981,
+            "long": 23.6886
+        }
+    },
+    {
+        "title": "Lida",
+        "translation": "Лида",
+        "cords": {
+            "lat": 53.8874,
+            "long": 25.3027
+        }
+    },
+    {
+        "title": "Novogrudok",
+        "translation": "Новогрудок",
+        "cords": {
+            "lat": 53.6016,
+            "long": 25.8276
+        }
+    },
+    {
+        "title": "Smorgon",
+        "translation": "Сморгонь",
+        "cords": {
+            "lat": 54.4814,
+            "long": 26.4019
+        }
+    },
+    {
+        "title": "Nesvizh",
+        "translation": "Несвиж",
+        "cords": {
+            "lat": 53.2189,
+            "long": 26.6815
+        }
+    },
+    {
+        "title": "Slonim",
+        "translation": "Слоним",
+        "cords": {
+            "lat": 53.0928,
+            "long": 25.3195
+        }
+    },
+    {
+        "title": "Baranovichi",
+        "translation": "Барановичи",
+        "cords": {
+            "lat": 53.1347,
+            "long": 26.0146
+        }
+    },
+    {
+        "title": "Grodno",
+        "translation": "Гродно",
+        "cords": {
+            "lat": 53.6782,
+            "long": 23.8308
+        }
+    },
+    {
+        "title": "Slutsk",
+        "translation": "Слуцк",
+        "cords": {
+            "lat": 53.0275,
+            "long": 27.5529
+        }
+    },
+    {
+        "title": "Soligorsk",
+        "translation": "Солигорск",
+        "cords": {
+            "lat": 52.7873,
+            "long": 27.5255
+        }
+    },
+    {
+        "title": "Luninets",
+        "translation": "Лунинец",
+        "cords": {
+            "lat": 52.2566,
+            "long": 26.7977
+        }
+    },
+    {
+        "title": "Pinsk",
+        "translation": "Пинск",
+        "cords": {
+            "lat": 52.1116,
+            "long": 26.1027
+        }
+    },
+    {
+        "title": "Kobrin",
+        "translation": "Кобрин",
+        "cords": {
+            "lat": 52.2127,
+            "long": 24.3578
+        }
+    },
     {
         "title": "Prague",
         "translation": "Прага",
@@ -1903,38 +2234,6 @@
         }
     },
     {
-        "title": "Kharkiv",
-        "translation": "Харьков",
-        "cords": {
-            "lat": 50.0044,
-            "long": 36.2357
-        }
-    },
-    {
-        "title": "Chuguev",
-        "translation": "Чугуев",
-        "cords": {
-            "lat": 49.8382,
-            "long": 36.6902
-        }
-    },
-    {
-        "title": "Pesochin",
-        "translation": "Песочин",
-        "cords": {
-            "lat": 49.9553,
-            "long": 36.0941
-        }
-    },
-    {
-        "title": "Bogodukhov",
-        "translation": "Богодухов",
-        "cords": {
-            "lat": 50.1621,
-            "long": 35.5261
-        }
-    },
-    {
         "title": "Riga",
         "translation": "Рига",
         "cords": {
@@ -2092,222 +2391,6 @@
         "cords": {
             "lat": 58.2529,
             "long": 22.4845
-        }
-    },
-    {
-        "title": "Minsk",
-        "translation": "Минск",
-        "cords": {
-            "lat": 53.9024,
-            "long": 27.5622
-        }
-    },
-    {
-        "title": "Polotsk",
-        "translation": "Полоцк",
-        "cords": {
-            "lat": 55.4846,
-            "long": 28.7785
-        }
-    },
-    {
-        "title": "Orsha",
-        "translation": "Орша",
-        "cords": {
-            "lat": 54.5108,
-            "long": 30.4295
-        }
-    },
-    {
-        "title": "Borisov",
-        "translation": "Борисов",
-        "cords": {
-            "lat": 54.2462,
-            "long": 28.5058
-        }
-    },
-    {
-        "title": "Molodechno",
-        "translation": "Молодечно",
-        "cords": {
-            "lat": 54.3074,
-            "long": 26.8396
-        }
-    },
-    {
-        "title": "Cherven",
-        "translation": "Червень",  
-        "cords": {
-            "lat": 53.7145,
-            "long": 28.4187
-        }
-    },
-    {
-        "title": "Vitebsk",
-        "translation": "Витебск",
-        "cords": {
-            "lat": 55.1959,
-            "long": 30.2051
-        }
-    },
-    {
-        "title": "Mogilev",
-        "translation": "Могилёв",
-        "cords": {
-            "lat": 53.8948,
-            "long": 30.3307
-        }
-    },
-    {
-        "title": "Bobruisk",
-        "translation": "Бобруйск",
-        "cords": {
-            "lat": 53.1335,
-            "long": 29.2279
-        }
-    },
-    {
-        "title": "Rogachev",
-        "translation": "Рогачёв",
-        "cords": {
-            "lat": 53.0822,
-            "long": 30.0528
-        }
-    },
-    {
-        "title": "Zhlobin",
-        "translation": "Жлобин",
-        "cords": {
-            "lat": 52.8924,
-            "long": 30.0379
-        }
-    },
-    {
-        "title": "Rechitsa",
-        "translation": "Речица",
-        "cords": {
-            "lat": 52.3724,
-            "long": 30.388
-        }
-    },
-    {
-        "title": "Gomel",
-        "translation": "Гомель",  
-        "cords": {
-            "lat": 52.426,
-            "long": 31.0140
-        }
-    },
-    {
-        "title": "Mozyr",
-        "translation": "Мозырь",  
-        "cords": {
-            "lat": 52.0474,
-            "long": 29.2655
-        }
-    },
-    {
-        "title": "Brest",
-        "translation": "Брест",  
-        "cords": {
-            "lat": 52.0981,
-            "long": 23.6886
-        }
-    },
-    {
-        "title": "Lida",
-        "translation": "Лида",
-        "cords": {
-            "lat": 53.8874,
-            "long": 25.3027
-        }
-    },
-    {
-        "title": "Novogrudok",
-        "translation": "Новогрудок",
-        "cords": {
-            "lat": 53.6016,
-            "long": 25.8276
-        }
-    },
-    {
-        "title": "Smorgon",
-        "translation": "Сморгонь",
-        "cords": {
-            "lat": 54.4814,
-            "long": 26.4019
-        }
-    },
-    {
-        "title": "Nesvizh",
-        "translation": "Несвиж",
-        "cords": {
-            "lat": 53.2189,
-            "long": 26.6815
-        }
-    },
-    {
-        "title": "Slonim",
-        "translation": "Слоним",
-        "cords": {
-            "lat": 53.0928,
-            "long": 25.3195
-        }
-    },
-    {
-        "title": "Baranovichi",
-        "translation": "Барановичи",
-        "cords": {
-            "lat": 53.1347,
-            "long": 26.0146
-        }
-    },
-    {
-        "title": "Grodno",
-        "translation": "Гродно",
-        "cords": {
-            "lat": 53.6782,
-            "long": 23.8308
-        }
-    },
-    {
-        "title": "Slutsk",
-        "translation": "Слуцк",
-        "cords": {
-            "lat": 53.0275,
-            "long": 27.5529
-        }
-    },
-    {
-        "title": "Soligorsk",
-        "translation": "Солигорск",
-        "cords": {
-            "lat": 52.7873,
-            "long": 27.5255
-        }
-    },
-    {
-        "title": "Luninets",
-        "translation": "Лунинец",
-        "cords": {
-            "lat": 52.2566,
-            "long": 26.7977
-        }
-    },
-    {
-        "title": "Pinsk",
-        "translation": "Пинск",
-        "cords": {
-            "lat": 52.1116,
-            "long": 26.1027
-        }
-    },
-    {
-        "title": "Kobrin",
-        "translation": "Кобрин",
-        "cords": {
-            "lat": 52.2127,
-            "long": 24.3578
         }
     },
     {

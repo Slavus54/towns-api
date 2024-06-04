@@ -1,7 +1,7 @@
 openapi: 3.0.3
 info: 
   title: "Towns-API Documentation"
-  version: 1.0.1
+  version: 1.0.2
 paths: 
   /towns:
       get:
@@ -70,5 +70,5 @@ paths:
               "200": 
                 description: "Return array of fortresses"
 servers: 
-- url: https://towns-api.onrender.com
+- url: https://towns-api.vercel.app
   description: "Base URL"
