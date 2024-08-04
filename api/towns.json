@@ -2,6 +2,7 @@
     {
         "title": "Kyiv",
         "translation": "Киев",
+        "domain": "ua",
         "cords": {
             "lat": 50.4495,
             "long": 30.5253
@@ -10,6 +11,7 @@
     {
         "title": "Poltava",
         "translation": "Полтава",
+        "domain": "ua",
         "cords": {
             "lat": 49.5896,
             "long": 34.5513
@@ -18,6 +20,7 @@
     {
         "title": "Gadyach",
         "translation": "Гадяч",
+        "domain": "ua",
         "cords": {
             "lat": 50.3715,
             "long": 33.9922
@@ -26,6 +29,7 @@
     {
         "title": "Mirgorod",
         "translation": "Миргород",
+        "domain": "ua",
         "cords": {
             "lat": 49.9681,
             "long": 33.6082
@@ -34,6 +38,7 @@
     {
         "title": "Lubny",
         "translation": "Лубны",
+        "domain": "ua",
         "cords": {
             "lat": 50.0209,
             "long": 32.997
@@ -42,6 +47,7 @@
     {
         "title": "Donetsk",
         "translation": "Донецк",  
+        "domain": "ua",
         "cords": {
             "lat": 48.0026,
             "long": 37.80521
@@ -50,6 +56,7 @@
     {
         "title": "Severodonetsk",
         "translation": "Северодонецк",
+        "domain": "ua",
         "cords": {
             "lat": 48.9493,
             "long": 38.4923
@@ -58,6 +65,7 @@
     {
         "title": "Lisichansk",
         "translation": "Лисичанск",
+        "domain": "ua",
         "cords": {
             "lat": 48.9121,
             "long": 38.429
@@ -66,6 +74,7 @@
     {
         "title": "Bakhmut",
         "translation": "Бахмут",
+        "domain": "ua",
         "cords": {
             "lat": 48.589,
             "long": 38.002
@@ -74,6 +83,7 @@
     {
         "title": "Kramatorsk",
         "translation": "Краматорск",
+        "domain": "ua",
         "cords": {
             "lat": 48.7388,
             "long": 37.5851
@@ -82,6 +92,7 @@
     {
         "title": "Slavyansk",
         "translation": "Славянск",
+        "domain": "ua",
         "cords": {
             "lat": 48.8523,
             "long": 37.6057
@@ -90,6 +101,7 @@
     {
         "title": "Alchevsk",
         "translation": "Алчевск",
+        "domain": "ua",
         "cords": {
             "lat": 48.4677,
             "long": 38.7933
@@ -98,6 +110,7 @@
     {
         "title": "Kharkiv",
         "translation": "Харьков",
+        "domain": "ua",
         "cords": {
             "lat": 50.0044,
             "long": 36.2357
@@ -106,6 +119,7 @@
     {
         "title": "Chuguev",
         "translation": "Чугуев",
+        "domain": "ua",
         "cords": {
             "lat": 49.8382,
             "long": 36.6902
@@ -114,6 +128,7 @@
     {
         "title": "Pesochin",
         "translation": "Песочин",
+        "domain": "ua",
         "cords": {
             "lat": 49.9553,
             "long": 36.0941
@@ -122,6 +137,7 @@
     {
         "title": "Bogodukhov",
         "translation": "Богодухов",
+        "domain": "ua",
         "cords": {
             "lat": 50.1621,
             "long": 35.5261
@@ -130,6 +146,7 @@
     {
         "title": "Kupyansk",
         "translation": "Купянск",
+        "domain": "ua",
         "cords": {
             "lat": 49.7109,
             "long": 37.6125
@@ -138,6 +155,7 @@
     {
         "title": "Izyum",
         "translation": "Изюм",
+        "domain": "ua",
         "cords": {
             "lat": 49.2186,
             "long": 37.2684
@@ -146,6 +164,7 @@
     {
         "title": "Lozovaya",
         "translation": "Лозовая",
+        "domain": "ua",
         "cords": {
             "lat": 48.8854,
             "long": 36.318
@@ -154,6 +173,7 @@
     {
         "title": "Lugansk",
         "translation": "Луганск",
+        "domain": "ua",
         "cords": {
             "lat": 48.5723,
             "long": 39.3083
@@ -162,6 +182,7 @@
     {
         "title": "Mariupol",
         "translation": "Мариуполь",
+        "domain": "ua",
         "cords": {
             "lat": 47.0932,
             "long": 37.562
@@ -170,6 +191,7 @@
     {
         "title": "Chernivtsi",
         "translation": "Черновцы",
+        "domain": "ua",
         "cords": {
             "lat": 48.29255,
             "long": 25.9353
@@ -178,6 +200,7 @@
     {
         "title": "Ternopil",
         "translation": "Тернополь",
+        "domain": "ua",
         "cords": {
             "lat": 49.5535,
             "long": 25.5949
@@ -186,6 +209,7 @@
     {
         "title": "Pochaev",
         "translation": "Почаев",
+        "domain": "ua",
         "cords": {
             "lat": 50.0059,
             "long": 25.5072
@@ -194,6 +218,7 @@
     {
         "title": "Zbarazh",
         "translation": "Збараж",
+        "domain": "ua",
         "cords": {
             "lat": 49.6665,
             "long": 25.7783
@@ -202,6 +227,7 @@
     {
         "title": "Terebovlya",
         "translation": "Теробовля",
+        "domain": "ua",
         "cords": {
             "lat": 49.3,
             "long": 25.69
@@ -210,6 +236,7 @@
     {
         "title": "Chernigov",
         "translation": "Чернигов",
+        "domain": "ua",
         "cords": {
             "lat": 51.4911,
             "long": 31.2989
@@ -218,6 +245,7 @@
     {
         "title": "Sumy",
         "translation": "Сумы",
+        "domain": "ua",
         "cords": {
             "lat": 50.9101,
             "long": 34.7961
@@ -226,6 +254,7 @@
     {
         "title": "Glukhov",
         "translation": "Глухов",
+        "domain": "ua",
         "cords": {
             "lat": 51.6774,
             "long": 33.9133
@@ -234,6 +263,7 @@
     {
         "title": "Novgorod-Seversky",
         "translation": "Новгород-Северский",
+        "domain": "ua",
         "cords": {
             "lat": 52.001,
             "long": 33.2724
@@ -242,6 +272,7 @@
     {
         "title": "Shostka",
         "translation": "Шотка",
+        "domain": "ua",
         "cords": {
             "lat": 51.8648,
             "long": 33.4871
@@ -250,6 +281,7 @@
     {
         "title": "Romny",
         "translation": "Ромны",
+        "domain": "ua",
         "cords": {
             "lat": 50.7509,
             "long": 33.4856
@@ -258,6 +290,7 @@
     {
         "title": "Okhtyrka",
         "translation": "Ахтырка",
+        "domain": "ua",
         "cords": {
             "lat": 50.3003,
             "long": 34.8907
@@ -266,6 +299,7 @@
     {
         "title": "Vinnitsa",
         "translation": "Винница",
+        "domain": "ua",
         "cords": {
             "lat": 49.2334,
             "long": 28.4755
@@ -274,6 +308,7 @@
     {
         "title": "Gysin",
         "translation": "Гайсин",
+        "domain": "ua",
         "cords": {
             "lat": 48.8126,
             "long": 29.3784
@@ -282,6 +317,7 @@
     {
         "title": "Zhmerynka",
         "translation": "Жмеринка",
+        "domain": "ua",
         "cords": {
             "lat": 49.0355,
             "long": 28.1149
@@ -290,6 +326,7 @@
     {
         "title": "Ladyzhin",
         "translation": "Ладыжин",
+        "domain": "ua",
         "cords": {
             "lat": 48.6806,
             "long": 29.262
@@ -298,6 +335,7 @@
     {
         "title": "Tulchin",
         "translation": "Тульчин",
+        "domain": "ua",
         "cords": {
             "lat": 48.6762,
             "long": 28.8589
@@ -306,6 +344,7 @@
     {
         "title": "Shargorod",
         "translation": "Шаргород",
+        "domain": "ua",
         "cords": {
             "lat": 48.7359,
             "long": 28.084
@@ -314,6 +353,7 @@
     {
         "title": "Khmilnik",
         "translation": "Хмельник",
+        "domain": "ua",
         "cords": {
             "lat": 49.5541,
             "long": 27.9496
@@ -322,6 +362,7 @@
     {
         "title": "Kryzhopol",
         "translation": "Крыжополь",
+        "domain": "ua",
         "cords": {
             "lat": 48.3811,
             "long": 28.868
@@ -330,6 +371,7 @@
     {
         "title": "Mogilev-Podolsky",
         "translation": "Могилев-Подольский",
+        "domain": "ua",
         "cords": {
             "lat": 48.4468,
             "long": 27.7929
@@ -338,6 +380,7 @@
     {
         "title": "Ivano-Frankivsk",
         "translation": "Ивано-Франковск",
+        "domain": "ua",
         "cords": {
             "lat": 48.9227,
             "long": 24.7104
@@ -346,6 +389,7 @@
     {
         "title": "Cherkasy",
         "translation": "Черкассы",
+        "domain": "ua",
         "cords": {
             "lat": 49.4444,
             "long": 32.0593
@@ -354,6 +398,7 @@
     {
         "title": "Zaporozhye",
         "translation": "Запорожье",
+        "domain": "ua",
         "cords": {
             "lat": 47.8134,
             "long": 35.1813
@@ -362,6 +407,7 @@
     {
         "title": "Melitopol",
         "translation": "Мелитополь",
+        "domain": "ua",
         "cords": {
             "lat": 46.8423,
             "long": 35.3736
@@ -370,6 +416,7 @@
     {
         "title": "Tokmak",
         "translation": "Токмак",
+        "domain": "ua",
         "cords": {
             "lat": 47.2622,
             "long": 35.7092
@@ -378,6 +425,7 @@
     {
         "title": "Berdyansk",
         "translation": "Бердянск",
+        "domain": "ua",
         "cords": {
             "lat": 46.7557,
             "long": 36.7896
@@ -386,6 +434,7 @@
     {
         "title": "Energodar",
         "translation": "Энергодар",
+        "domain": "ua",
         "cords": {
             "lat": 47.4905,
             "long": 34.6622
@@ -394,6 +443,7 @@
     {
         "title": "Dnieper",
         "translation": "Днепр",
+        "domain": "ua",
         "cords": {
             "lat": 48.4644,
             "long": 35.0457
@@ -402,6 +452,7 @@
     {
         "title": "Pavlograd",
         "translation": "Павлоград",
+        "domain": "ua",
         "cords": {
             "lat": 48.5315,
             "long": 35.87
@@ -410,6 +461,7 @@
     {
         "title": "Nikopol",
         "translation": "Никополь",
+        "domain": "ua",
         "cords": {
             "lat": 47.5547,
             "long": 34.4058
@@ -418,6 +470,7 @@
     {
         "title": "Kherson",
         "translation": "Херсон",
+        "domain": "ua",
         "cords": {
             "lat": 46.6402,
             "long": 32.6147
@@ -426,6 +479,7 @@
     {
         "title": "Mykolaiv",
         "translation": "Николаев",
+        "domain": "ua",
         "cords": {
             "lat": 46.9759,
             "long": 31.9936
@@ -434,6 +488,7 @@
     {
         "title": "Voznesensk",
         "translation": "Вознесенск",
+        "domain": "ua",
         "cords": {
             "lat": 47.5639,
             "long": 31.3387
@@ -442,6 +497,7 @@
     {
         "title": "New Bug",
         "translation": "Новый Буг",
+        "domain": "ua",
         "cords": {
             "lat": 47.6931,
             "long": 32.5113
@@ -450,6 +506,7 @@
     {
         "title": "Yuzhnoukrainsk",
         "translation": "Южноукраинск",
+        "domain": "ua",
         "cords": {
             "lat": 47.8254,
             "long": 31.1736
@@ -458,6 +515,7 @@
     {
         "title": "Pervomaisk",
         "translation": "Первомайск",
+        "domain": "ua",
         "cords": {
             "lat": 48.0442,
             "long": 30.8496
@@ -466,6 +524,7 @@
     {
         "title": "Zhytomyr",
         "translation": "Житомир",
+        "domain": "ua",
         "cords": {
             "lat": 50.2546,
             "long": 28.6586
@@ -474,6 +533,7 @@
     {
         "title": "Berdichev",
         "translation": "Бердичёв",
+        "domain": "ua",
         "cords": {
             "lat": 49.8986,
             "long": 28.5753
@@ -482,6 +542,7 @@
     {
         "title": "Novograd-Volynsky",
         "translation": "Новоград-Волынский",
+        "domain": "ua",
         "cords": {
             "lat": 50.5928,
             "long": 27.623
@@ -490,6 +551,7 @@
     {
         "title": "Brusilov",
         "translation": "Брусилов",
+        "domain": "ua",
         "cords": {
             "lat": 50.2848,
             "long": 29.5271
@@ -498,6 +560,7 @@
     {
         "title": "Dovbysh",
         "translation": "Довбыш",
+        "domain": "ua",
         "cords": {
             "lat": 50.3763,
             "long": 27.9869
@@ -506,6 +569,7 @@
     {
         "title": "Radomyshl",
         "translation": "Радомышль",
+        "domain": "ua",
         "cords": {
             "lat": 50.5027,
             "long": 29.2429
@@ -514,6 +578,7 @@
     {
         "title": "Malin",
         "translation": "Малин",
+        "domain": "ua",
         "cords": {
             "lat": 50.7678,
             "long": 29.2415
@@ -522,6 +587,7 @@
     {
         "title": "Korosten",
         "translation": "Коростень",
+        "domain": "ua",
         "cords": {
             "lat": 50.9499,
             "long": 28.6466
@@ -530,6 +596,7 @@
     {
         "title": "Rovno",
         "translation": "Ровно",
+        "domain": "ua",
         "cords": {
             "lat": 50.6196,
             "long": 26.2515
@@ -538,6 +605,7 @@
     {
         "title": "Zdolbunov",
         "translation": "Здолбунов",
+        "domain": "ua",
         "cords": {
             "lat": 50.5251,
             "long": 26.2547
@@ -546,6 +614,7 @@
     {
         "title": "Varash",
         "translation": "Вараш",
+        "domain": "ua",
         "cords": {
             "lat": 51.3475,
             "long": 25.8449
@@ -554,6 +623,7 @@
     {
         "title": "Kostopol",
         "translation": "Костополь",
+        "domain": "ua",
         "cords": {
             "lat": 50.8774,
             "long": 26.4562
@@ -562,6 +632,7 @@
     {
         "title": "Klevan",
         "translation": "Клевань",
+        "domain": "ua",
         "cords": {
             "lat": 50.7498,
             "long": 26.0304
@@ -570,6 +641,7 @@
     {
         "title": "Sarny",
         "translation": "Сарны",
+        "domain": "ua",
         "cords": {
             "lat": 51.3351,
             "long": 26.6172
@@ -578,6 +650,7 @@
     {
         "title": "Mlinov",
         "translation": "Млинов",
+        "domain": "ua",
         "cords": {
             "lat": 50.5067,
             "long": 25.6126
@@ -586,6 +659,7 @@
     {
         "title": "Khmelnitsky",
         "translation": "Хмельницкий",
+        "domain": "ua",
         "cords": {
             "lat": 49.4233,
             "long": 26.9862
@@ -594,6 +668,7 @@
     {
         "title": "Lutsk",
         "translation": "Луцк",
+        "domain": "ua",
         "cords": {
             "lat": 50.7471,
             "long": 25.3261
@@ -602,137 +677,139 @@
     {
         "title": "Lviv",
         "translation": "Львов",  
+        "domain": "ua",
         "cords": {
             "lat": 49.8436,
             "long": 24.0268
         }
     },
-    {"title": "Moscow", "translation": "Москва", "cords": {"lat": 55.7542, "long": 37.6204}},
-    {"title": "Sergiev Posad", "translation": "Сергиев Посад", "cords": {"lat": 56.3106, "long": 38.1301}},
-    {"title": "Kolomna", "translation": "Коломна", "cords": {"lat": 55.1020, "long": 38.7553}},
+    {"title": "Moscow", "translation": "Москва", "domain": "ru", "cords": {"lat": 55.7542, "long": 37.6204}},
+    {"title": "Sergiev Posad", "translation": "Сергиев Посад", "domain": "ru", "cords": {"lat": 56.3106, "long": 38.1301}},
+    {"title": "Kolomna", "translation": "Коломна", "domain": "ru","cords": {"lat": 55.1020, "long": 38.7553}},
     {"title": "Podolsk", "translation": "Подольск", "cords": {"lat": 55.4337, "long": 37.5488}},
-    {"title": "Saint Petersburg", "translation": "Санкт-Петербург", "cords": {"lat": 59.939, "long": 30.3161}},
-    {"title": "Vyborg", "translation": "Выборг", "cords": {"lat": 60.7134, "long": 28.7378}},
-    {"title": "Gatchina", "translation": "Гатчина", "cords": {"lat": 59.5646, "long": 30.1225}},
-    {"title": "Luga", "translation": "Луга", "cords": {"lat": 58.7351, "long": 29.8481}},
-    {"title": "Shlisselburg", "translation": "Шлиссельбург", "cords": {"lat": 59.9449, "long": 31.0348}},
-    {"title": "Maykop", "translation": "Майкоп", "cords": {"lat": 44.6067, "long": 40.1057}},
-    {"title": "Gorno-Altaysk", "translation": "Горно-Алтайск", "cords": {"lat": 51.9579, "long": 85.96}},
-    {"title": "Ufa", "translation": "Уфа", "cords": {"lat": 54.7261, "long": 55.9448}},
-    {"title": "Ulan-Ude", "translation": "Улан-Удэ", "cords": {"lat": 51.8334, "long": 107.5831}},
-    {"title": "Grozny", "translation": "Грозный", "cords": {"lat": 43.3176, "long": 45.6939}},
-    {"title": "Cheboksary", "translation": "Чебоксары", "cords": {"lat": 56.1232, "long": 47.2555}},
-    {"title": "Makhachkala", "translation": "Махачкала", "cords": {"lat": 42.9831, "long": 47.5046}},
-    {"title": "Magas", "translation": "Магас", "cords": {"lat": 43.1669, "long": 44.8021}},
-    {"title": "Nalchik", "translation": "Нальчик", "cords": {"lat": 43.4854, "long": 43.6068}},
-    {"title": "Elista", "translation": "Элиста", "cords": {"lat": 46.3079, "long": 44.2698}},
-    {"title": "Cherkessk", "translation": "Черкесск", "cords": {"lat": 44.2278, "long": 42.0469}},
-    {"title": "Petrozavodsk", "translation": "Петрозаводск", "cords": {"lat": 61.7849, "long": 34.3466}},
-    {"title": "Medvezhyegorsk", "translation": "Медвежьегорск", "cords": {"lat": 62.915, "long": 34.4732}},
-    {"title": "Sortavala", "translation": "Сортавала", "cords": {"lat": 61.7031, "long": 30.6915}},
-    {"title": "Abakan", "translation": "Абакан", "cords": {"lat": 53.7215, "long": 91.4422}},
-    {"title": "Syktyvkar", "translation": "Сыктывкар", "cords": {"lat": 61.6686, "long": 50.836}},
-    {"title": "Yoshkar-Ola", "translation": "Йошкар-Ола", "cords": {"lat": 56.6309, "long": 47.8909}},
-    {"title": "Saransk", "translation": "Саранск", "cords": {"lat": 54.1872, "long": 45.184}},
-    {"title": "Vladikavkaz", "translation": "Владикавказ", "cords": {"lat": 43.0306, "long": 44.6806}},
-    {"title": "Yakutsk", "translation": "Якутск", "cords": {"lat": 62.0273, "long": 129.7324}},
-    {"title": "Kazan", "translation": "Казань", "cords": {"lat": 55.8001, "long": 49.1056}},
-    {"title": "Kyzyl", "translation": "Кызыл", "cords": {"lat": 51.719, "long": 94.4294}},
-    {"title": "Izhevsk", "translation": "Ижевск", "cords": {"lat": 56.8441, "long": 53.2003}},
-    {"title": "Glazov", "translation": "Глазов", "cords": {"lat": 58.1406, "long": 52.6744}},
-    {"title": "Barnaul", "translation": "Барнаул", "cords": {"lat": 53.3472, "long": 83.7773}},
-    {"title": "Slavgorod", "translation": "Славгород", "cords": {"lat": 52.9971, "long": 78.6488}},
-    {"title": "Rubtsovsk", "translation": "Рубцовск", "cords": {"lat": 51.5275, "long": 81.218}},
-    {"title": "Petropavlovsk-Kamchatsky", "translation": "Петропавловск-Камчатский", "cords": {"lat": 53.0243, "long": 0}},
-    {"title": "Khabarovsk", "translation": "Хабаровск", "cords": {"lat": 48.4726, "long": 135.0569}},
-    {"title": "Krasnodar", "translation": "Краснодар", "cords": {"lat": 45.0247, "long": 38.9707}},
-    {"title": "Krasnoyarsk", "translation": "Красноярск", "cords": {"lat": 56.0105, "long": 92.8529}},
-    {"title": "Perm", "translation": "Пермь", "cords": {"lat": 58.0159, "long": 56.2341}},
-    {"title": "Kungur", "translation": "Кунгур", "cords": {"lat": 57.4317, "long": 56.9395}},
-    {"title": "Berezniki", "translation": "Березники", "cords": {"lat": 59.4074, "long": 56.8053}},
-    {"title": "Vladivostok", "translation": "Владивосток", "cords": {"lat": 43.1157, "long": 131.8855}},
-    {"title": "Stavropol", "translation": "Ставрополь", "cords": {"lat": 45.0429, "long": 41.9651}},
-    {"title": "Chita", "translation": "Чита", "cords": {"lat": 52.0333, "long": 113.5009}},
-    {"title": "Blagoveshchensk", "translation": "Благовещенск", "cords": {"lat": 50.2578, "long": 127.5348}},
-    {"title": "Arkhangelsk", "translation": "Архангельск", "cords": {"lat": 64.5399, "long": 40.5159}},
-    {"title": "Astrakhan", "translation": "Астрахань", "cords": {"lat": 46.3479, "long": 48.0329}},
-    {"title": "Belgorod", "translation": "Белгород", "cords": {"lat": 50.5955, "long": 36.5874}},
-    {"title": "Bryansk", "translation": "Брянск", "cords": {"lat": 53.2436, "long": 34.3632}},
-    {"title": "Chelyabinsk", "translation": "Челябинск", "cords": {"lat": 55.1654, "long": 61.4006}},
-    {"title": "Zlatoust", "translation": "Златоуст", "cords": {"lat": 55.1736, "long": 59.6723}},
-    {"title": "Miass", "translation": "Миасс", "cords": {"lat": 54.9863, "long": 60.1034}},
-    {"title": "Irkutsk", "translation": "Иркутск", "cords": {"lat": 52.2873, "long": 104.2811}},
-    {"title": "Ivanovo", "translation": "Иваново", "cords": {"lat": 56.9988, "long": 40.9731}},
-    {"title": "Kaliningrad", "translation": "Калининград", "cords": {"lat": 54.7064, "long": 20.5123}},
-    {"title": "Kaluga", "translation": "Калуга", "cords": {"lat": 54.5151, "long": 36.2581}},
-    {"title": "Kemerovo", "translation": "Кемерово", "cords": {"lat": 55.3547, "long": 86.0885}},
-    {"title": "Kirov", "translation": "Киров", "cords": {"lat": 58.6035, "long": 49.6669}},
-    {"title": "Kostroma", "translation": "Котрома", "cords": {"lat": 57.7681, "long": 40.9273}},
-    {"title": "Kurgan", "translation": "Курган", "cords": {"lat": 55.4365, "long": 65.3536}},
-    {"title": "Kursk", "translation": "Курск", "cords": {"lat": 51.7308, "long": 36.1929}},
-    {"title": "Lipetsk", "translation": "Липецк", "cords": {"lat": 52.6051, "long": 39.5928}},
-    {"title": "Magadan", "translation": "Магадан", "cords": {"lat": 59.5668, "long": 150.8122}},
-    {"title": "Murmansk", "translation": "Мурманск", "cords": {"lat": 68.9706, "long": 33.0742}},
-    {"title": "Nizhny Novgorod", "translation": "Нижний Новгород", "cords": {"lat": 56.3277, "long": 44.0033}},
-    {"title": "Veliky Novgorod", "translation": "Великий Новгород", "cords": {"lat": 58.5216, "long": 31.2754}},
-    {"title": "Novosibirsk", "translation": "Новосибирск", "cords": {"lat": 55.0301, "long": 82.9206}},
-    {"title": "Kolyvan", "translation": "Колывань", "cords": {"lat": 55.3068, "long": 82.7453}},
-    {"title": "Barabinsk", "translation": "Барабинск", "cords": {"lat": 55.3507, "long": 78.3482}},
-    {"title": "Tatarsk", "translation": "Татарск", "cords": {"lat": 55.2199, "long": 75.9738}},
-    {"title": "Kainsk", "translation": "Каинск", "cords": {"lat": 55.4481, "long": 78.3049}},
-    {"title": "Karasuk", "translation": "Карасук", "cords": {"lat": 53.7319, "long": 78.0495}},
-    {"title": "Kupino", "translation": "Купино", "cords": {"lat": 54.3656, "long": 77.2992}},
-    {"title": "Mariinsk", "translation": "Мариинск", "cords": {"lat": 56.2052, "long": 87.7659}},
-    {"title": "Anzhero-Sudzhensk", "translation": "Анжеро-Судженск", "cords": {"lat": 56.0755, "long": 86.0245}},
-    {"title": "Yurga", "translation": "Юрга", "cords": {"lat": 55.7224, "long": 84.9301}},
-    {"title": "Leninsk-Kuznetsky", "translation": "Ленинск-Кузнецкий", "cords": {"lat": 54.6653, "long": 86.1656}},
-    {"title": "Belovo", "translation": "Белово", "cords": {"lat": 54.4192, "long": 86.3034}},
-    {"title": "Novokuznetsk", "translation": "Новокузнецк", "cords": {"lat": 53.7572, "long": 87.1194}},
-    {"title": "Berdsk", "translation": "Бердск", "cords": {"lat": 54.7588, "long": 83.1076}},
-    {"title": "Iskitim", "translation": "Искитим", "cords": {"lat": 54.6373, "long": 83.3073}},
-    {"title": "Omsk", "translation": "Омск", "cords": {"lat": 54.9898, "long": 73.3653}},
-    {"title": "Kalachinsk", "translation": "Калачинск", "cords": {"lat": 55.0529, "long": 74.5817}},
+    {"title": "Saint Petersburg", "translation": "Санкт-Петербург", "domain": "ru", "cords": {"lat": 59.939, "long": 30.3161}},
+    {"title": "Vyborg", "translation": "Выборг", "domain": "ru", "cords": {"lat": 60.7134, "long": 28.7378}},
+    {"title": "Gatchina", "translation": "Гатчина", "domain": "ru", "cords": {"lat": 59.5646, "long": 30.1225}},
+    {"title": "Luga", "translation": "Луга", "domain": "ru", "cords": {"lat": 58.7351, "long": 29.8481}},
+    {"title": "Shlisselburg", "translation": "Шлиссельбург", "domain": "ru", "cords": {"lat": 59.9449, "long": 31.0348}},
+    {"title": "Maykop", "translation": "Майкоп", "domain": "ru", "cords": {"lat": 44.6067, "long": 40.1057}},
+    {"title": "Gorno-Altaysk", "translation": "Горно-Алтайск", "domain": "ru", "cords": {"lat": 51.9579, "long": 85.96}},
+    {"title": "Ufa", "translation": "Уфа", "domain": "ru", "cords": {"lat": 54.7261, "long": 55.9448}},
+    {"title": "Ulan-Ude", "translation": "Улан-Удэ", "domain": "ru", "cords": {"lat": 51.8334, "long": 107.5831}},
+    {"title": "Grozny", "translation": "Грозный", "domain": "ru", "cords": {"lat": 43.3176, "long": 45.6939}},
+    {"title": "Cheboksary", "translation": "Чебоксары", "domain": "ru", "cords": {"lat": 56.1232, "long": 47.2555}},
+    {"title": "Makhachkala", "translation": "Махачкала", "domain": "ru", "cords": {"lat": 42.9831, "long": 47.5046}},
+    {"title": "Magas", "translation": "Магас", "domain": "ru", "cords": {"lat": 43.1669, "long": 44.8021}},
+    {"title": "Nalchik", "translation": "Нальчик", "domain": "ru", "cords": {"lat": 43.4854, "long": 43.6068}},
+    {"title": "Elista", "translation": "Элиста", "domain": "ru", "cords": {"lat": 46.3079, "long": 44.2698}},
+    {"title": "Cherkessk", "translation": "Черкесск", "domain": "ru", "cords": {"lat": 44.2278, "long": 42.0469}},
+    {"title": "Petrozavodsk", "translation": "Петрозаводск", "domain": "ru", "cords": {"lat": 61.7849, "long": 34.3466}},
+    {"title": "Medvezhyegorsk", "translation": "Медвежьегорск", "domain": "ru", "cords": {"lat": 62.915, "long": 34.4732}},
+    {"title": "Sortavala", "translation": "Сортавала", "domain": "ru", "cords": {"lat": 61.7031, "long": 30.6915}},
+    {"title": "Abakan", "translation": "Абакан", "domain": "ru", "cords": {"lat": 53.7215, "long": 91.4422}},
+    {"title": "Syktyvkar", "translation": "Сыктывкар", "domain": "ru", "cords": {"lat": 61.6686, "long": 50.836}},
+    {"title": "Yoshkar-Ola", "translation": "Йошкар-Ола", "domain": "ru", "cords": {"lat": 56.6309, "long": 47.8909}},
+    {"title": "Saransk", "translation": "Саранск", "domain": "ru", "cords": {"lat": 54.1872, "long": 45.184}},
+    {"title": "Vladikavkaz", "translation": "Владикавказ", "domain": "ru", "cords": {"lat": 43.0306, "long": 44.6806}},
+    {"title": "Yakutsk", "translation": "Якутск", "domain": "ru", "cords": {"lat": 62.0273, "long": 129.7324}},
+    {"title": "Kazan", "translation": "Казань", "domain": "ru", "cords": {"lat": 55.8001, "long": 49.1056}},
+    {"title": "Kyzyl", "translation": "Кызыл", "domain": "ru", "cords": {"lat": 51.719, "long": 94.4294}},
+    {"title": "Izhevsk", "translation": "Ижевск", "domain": "ru", "cords": {"lat": 56.8441, "long": 53.2003}},
+    {"title": "Glazov", "translation": "Глазов", "domain": "ru", "cords": {"lat": 58.1406, "long": 52.6744}},
+    {"title": "Barnaul", "translation": "Барнаул", "domain": "ru", "cords": {"lat": 53.3472, "long": 83.7773}},
+    {"title": "Slavgorod", "translation": "Славгород", "domain": "ru", "cords": {"lat": 52.9971, "long": 78.6488}},
+    {"title": "Rubtsovsk", "translation": "Рубцовск", "domain": "ru", "cords": {"lat": 51.5275, "long": 81.218}},
+    {"title": "Petropavlovsk-Kamchatsky", "translation": "Петропавловск-Камчатский", "domain": "ru", "cords": {"lat": 53.0243, "long": 0}},
+    {"title": "Khabarovsk", "translation": "Хабаровск", "domain": "ru", "cords": {"lat": 48.4726, "long": 135.0569}},
+    {"title": "Krasnodar", "translation": "Краснодар", "domain": "ru", "cords": {"lat": 45.0247, "long": 38.9707}},
+    {"title": "Krasnoyarsk", "translation": "Красноярск", "domain": "ru", "cords": {"lat": 56.0105, "long": 92.8529}},
+    {"title": "Perm", "translation": "Пермь", "domain": "ru", "cords": {"lat": 58.0159, "long": 56.2341}},
+    {"title": "Kungur", "translation": "Кунгур", "domain": "ru", "cords": {"lat": 57.4317, "long": 56.9395}},
+    {"title": "Berezniki", "translation": "Березники", "domain": "ru", "cords": {"lat": 59.4074, "long": 56.8053}},
+    {"title": "Vladivostok", "translation": "Владивосток", "domain": "ru", "cords": {"lat": 43.1157, "long": 131.8855}},
+    {"title": "Stavropol", "translation": "Ставрополь", "domain": "ru", "cords": {"lat": 45.0429, "long": 41.9651}},
+    {"title": "Chita", "translation": "Чита", "domain": "ru", "cords": {"lat": 52.0333, "long": 113.5009}},
+    {"title": "Blagoveshchensk", "translation": "Благовещенск", "domain": "ru", "cords": {"lat": 50.2578, "long": 127.5348}},
+    {"title": "Arkhangelsk", "translation": "Архангельск", "domain": "ru", "cords": {"lat": 64.5399, "long": 40.5159}},
+    {"title": "Astrakhan", "translation": "Астрахань", "domain": "ru", "cords": {"lat": 46.3479, "long": 48.0329}},
+    {"title": "Belgorod", "translation": "Белгород", "domain": "ru", "cords": {"lat": 50.5955, "long": 36.5874}},
+    {"title": "Bryansk", "translation": "Брянск", "domain": "ru", "cords": {"lat": 53.2436, "long": 34.3632}},
+    {"title": "Chelyabinsk", "translation": "Челябинск", "domain": "ru", "cords": {"lat": 55.1654, "long": 61.4006}},
+    {"title": "Zlatoust", "translation": "Златоуст", "domain": "ru", "cords": {"lat": 55.1736, "long": 59.6723}},
+    {"title": "Miass", "translation": "Миасс", "domain": "ru", "cords": {"lat": 54.9863, "long": 60.1034}},
+    {"title": "Irkutsk", "translation": "Иркутск", "domain": "ru", "cords": {"lat": 52.2873, "long": 104.2811}},
+    {"title": "Ivanovo", "translation": "Иваново", "domain": "ru", "cords": {"lat": 56.9988, "long": 40.9731}},
+    {"title": "Kaliningrad", "translation": "Калининград", "domain": "ru", "cords": {"lat": 54.7064, "long": 20.5123}},
+    {"title": "Kaluga", "translation": "Калуга", "domain": "ru", "cords": {"lat": 54.5151, "long": 36.2581}},
+    {"title": "Kemerovo", "translation": "Кемерово", "domain": "ru", "cords": {"lat": 55.3547, "long": 86.0885}},
+    {"title": "Kirov", "translation": "Киров", "domain": "ru", "cords": {"lat": 58.6035, "long": 49.6669}},
+    {"title": "Kostroma", "translation": "Котрома", "domain": "ru", "cords": {"lat": 57.7681, "long": 40.9273}},
+    {"title": "Kurgan", "translation": "Курган", "domain": "ru", "cords": {"lat": 55.4365, "long": 65.3536}},
+    {"title": "Kursk", "translation": "Курск", "domain": "ru", "cords": {"lat": 51.7308, "long": 36.1929}},
+    {"title": "Lipetsk", "translation": "Липецк", "domain": "ru", "cords": {"lat": 52.6051, "long": 39.5928}},
+    {"title": "Magadan", "translation": "Магадан", "domain": "ru", "cords": {"lat": 59.5668, "long": 150.8122}},
+    {"title": "Murmansk", "translation": "Мурманск", "domain": "ru", "cords": {"lat": 68.9706, "long": 33.0742}},
+    {"title": "Nizhny Novgorod", "translation": "Нижний Новгород", "domain": "ru","cords": {"lat": 56.3277, "long": 44.0033}},
+    {"title": "Veliky Novgorod", "translation": "Великий Новгород", "domain": "ru", "cords": {"lat": 58.5216, "long": 31.2754}},
+    {"title": "Novosibirsk", "translation": "Новосибирск", "domain": "ru", "cords": {"lat": 55.0301, "long": 82.9206}},
+    {"title": "Kolyvan", "translation": "Колывань", "domain": "ru", "cords": {"lat": 55.3068, "long": 82.7453}},
+    {"title": "Barabinsk", "translation": "Барабинск", "domain": "ru", "cords": {"lat": 55.3507, "long": 78.3482}},
+    {"title": "Tatarsk", "translation": "Татарск", "domain": "ru", "cords": {"lat": 55.2199, "long": 75.9738}},
+    {"title": "Kainsk", "translation": "Каинск", "domain": "ru", "cords": {"lat": 55.4481, "long": 78.3049}},
+    {"title": "Karasuk", "translation": "Карасук", "domain": "ru", "cords": {"lat": 53.7319, "long": 78.0495}},
+    {"title": "Kupino", "translation": "Купино", "domain": "ru", "cords": {"lat": 54.3656, "long": 77.2992}},
+    {"title": "Mariinsk", "translation": "Мариинск", "domain": "ru", "cords": {"lat": 56.2052, "long": 87.7659}},
+    {"title": "Anzhero-Sudzhensk", "translation": "Анжеро-Судженск", "domain": "ru", "cords": {"lat": 56.0755, "long": 86.0245}},
+    {"title": "Yurga", "translation": "Юрга", "domain": "ru", "cords": {"lat": 55.7224, "long": 84.9301}},
+    {"title": "Leninsk-Kuznetsky", "translation": "Ленинск-Кузнецкий", "domain": "ru", "cords": {"lat": 54.6653, "long": 86.1656}},
+    {"title": "Belovo", "translation": "Белово", "domain": "ru", "cords": {"lat": 54.4192, "long": 86.3034}},
+    {"title": "Novokuznetsk", "translation": "Новокузнецк", "domain": "ru", "cords": {"lat": 53.7572, "long": 87.1194}},
+    {"title": "Berdsk", "translation": "Бердск", "domain": "ru", "cords": {"lat": 54.7588, "long": 83.1076}},
+    {"title": "Iskitim", "translation": "Искитим", "domain": "ru","cords": {"lat": 54.6373, "long": 83.3073}},
+    {"title": "Omsk", "translation": "Омск", "domain": "ru", "cords": {"lat": 54.9898, "long": 73.3653}},
+    {"title": "Kalachinsk", "translation": "Калачинск", "domain": "ru", "cords": {"lat": 55.0529, "long": 74.5817}},
     {"title": "Tara", "translation": "Тара", "cords": {"lat": 56.9019, "long": 74.3722}},
-    {"title": "Tevriz", "translation": "Тевриз", "cords": {"lat": 57.5166, "long": 72.4045}},
-    {"title": "Tobolsk", "translation": "Тобольск", "cords": {"lat": 58.1989, "long": 68.2526}},
-    {"title": "Yalutorovsk", "translation": "Ялуторовск", "cords": {"lat": 56.6549, "long": 66.3125}},
-    {"title": "Ishim", "translation": "Ишим", "cords": {"lat": 56.0988, "long": 69.4637}},
-    {"title": "Orenburg", "translation": "Оренбург", "cords": {"lat": 51.7684, "long": 55.0969}},
-    {"title": "Oryol", "translation": "Орёл", "cords": {"lat": 52.9709, "long": 36.0641}},
-    {"title": "Penza", "translation": "Пенза", "cords": {"lat": 53.184, "long": 45.0124}},
-    {"title": "Pskov", "translation": "Псков", "cords": {"lat": 57.8221, "long": 28.3294}},
-    {"title": "Rostov-on-Don", "translation": "Ростов на Дону", "cords": {"lat": 47.2223, "long": 39.7193}},
-    {"title": "Ryazan", "translation": "Рязань", "cords": {"lat": 54.6331, "long": 39.7434}},
-    {"title": "Samara", "translation": "Самара", "cords": {"lat": 53.1856, "long": 50.0875}},
-    {"title": "Saratov", "translation": "Саратов", "cords": {"lat": 51.5335, "long": 46.0347}},
-    {"title": "Yuzhno-Sakhalinsk", "translation": "Южно-Сахалинск", "cords": {"lat": 46.9578, "long": 142.7296}},
-    {"title": "Yekaterinburg", "translation": "Екатеринбург", "cords": {"lat": 56.8385, "long": 60.6069}},
-    {"title": "Smolensk", "translation": "Смоленск", "cords": {"lat": 54.782, "long": 32.0466}},
-    {"title": "Vyazma", "translation": "Вязьма", "cords": {"lat": 55.2108, "long": 34.2981}},
-    {"title": "Tambov", "translation": "Тамбов", "cords": {"lat": 52.7214, "long": 41.4524}},
-    {"title": "Tomsk", "translation": "Томск", "cords": {"lat": 56.4881, "long": 84.949}},
-    {"title": "Tula", "translation": "Тула", "cords": {"lat": 54.1951, "long": 37.6198}},
-    {"title": "Tver", "translation": "Тверь", "cords": {"lat": 56.8588, "long": 35.9174}},
-    {"title": "Torzhok", "translation": "Торжок", "cords": {"lat": 57.0413, "long": 34.9601}},
-    {"title": "Rzhev", "translation": "Ржев", "cords": {"lat": 56.2583, "long": 34.3286}},
-    {"title": "Toropets", "translation": "Торопец", "cords": {"lat": 56.4951, "long": 31.6432}},
-    {"title": "Tyumen", "translation": "Тюмень", "cords": {"lat": 57.1596, "long": 65.5285}},
-    {"title": "Ulyanovsk", "translation": "Ульяновск", "cords": {"lat": 54.3187, "long": 48.3978}},
-    {"title": "Vladimir", "translation": "Владимир", "cords": {"lat": 56.1277, "long": 40.4089}},
-    {"title": "Volgograd", "translation": "Волгоград", "cords": {"lat": 48.7094, "long": 44.514}},
-    {"title": "Vologda", "translation": "Вологда", "cords": {"lat": 59.2196, "long": 39.8929}},
-    {"title": "Cherepovets", "translation": "Череповец", "cords": {"lat": 59.1224, "long": 37.9298}},
-    {"title": "Voronezh", "translation": "Воронеж", "cords": {"lat": 51.6608, "long": 39.2005}},
-    {"title": "Yaroslavl", "translation": "Ярославль", "cords": {"lat": 57.6263, "long": 39.8848}},
-    {"title": "Rybinsk", "translation": "Рыбинск", "cords": {"lat": 58.0491, "long": 38.856}},
-    {"title": "Birobidzhan", "translation": "Биробиджан", "cords": {"lat": 48.7886, "long": 132.9354}},
-    {"title": "Anadyr", "translation": "Анадырь", "cords": {"lat": 64.736, "long": 177.5197}},
-    {"title": "Khanty-Mansiysk", "translation": "Ханты-Мансийск", "cords": {"lat": 61.0031, "long": 69.0189}},
-    {"title": "Naryan-Mar", "translation": "Нарьян-Мар", "cords": {"lat": 67.6776, "long": 53.1289}},
-    {"title": "Salekhard", "translation": "Салехард", "cords": {"lat": 66.5224, "long": 66.5899}},
+    {"title": "Tevriz", "translation": "Тевриз", "domain": "ru", "cords": {"lat": 57.5166, "long": 72.4045}},
+    {"title": "Tobolsk", "translation": "Тобольск", "domain": "ru", "cords": {"lat": 58.1989, "long": 68.2526}},
+    {"title": "Yalutorovsk", "translation": "Ялуторовск", "domain": "ru", "cords": {"lat": 56.6549, "long": 66.3125}},
+    {"title": "Ishim", "translation": "Ишим", "domain": "ru", "cords": {"lat": 56.0988, "long": 69.4637}},
+    {"title": "Orenburg", "translation": "Оренбург", "domain": "ru", "cords": {"lat": 51.7684, "long": 55.0969}},
+    {"title": "Oryol", "translation": "Орёл", "domain": "ru", "cords": {"lat": 52.9709, "long": 36.0641}},
+    {"title": "Penza", "translation": "Пенза", "domain": "ru", "cords": {"lat": 53.184, "long": 45.0124}},
+    {"title": "Pskov", "translation": "Псков", "domain": "ru", "cords": {"lat": 57.8221, "long": 28.3294}},
+    {"title": "Rostov-on-Don", "translation": "Ростов на Дону", "domain": "ru", "cords": {"lat": 47.2223, "long": 39.7193}},
+    {"title": "Ryazan", "translation": "Рязань", "domain": "ru", "cords": {"lat": 54.6331, "long": 39.7434}},
+    {"title": "Samara", "translation": "Самара", "domain": "ru", "cords": {"lat": 53.1856, "long": 50.0875}},
+    {"title": "Saratov", "translation": "Саратов", "domain": "ru", "cords": {"lat": 51.5335, "long": 46.0347}},
+    {"title": "Yuzhno-Sakhalinsk", "translation": "Южно-Сахалинск", "domain": "ru", "cords": {"lat": 46.9578, "long": 142.7296}},
+    {"title": "Yekaterinburg", "translation": "Екатеринбург", "domain": "ru", "cords": {"lat": 56.8385, "long": 60.6069}},
+    {"title": "Smolensk", "translation": "Смоленск", "domain": "ru", "cords": {"lat": 54.782, "long": 32.0466}},
+    {"title": "Vyazma", "translation": "Вязьма", "domain": "ru", "cords": {"lat": 55.2108, "long": 34.2981}},
+    {"title": "Tambov", "translation": "Тамбов", "domain": "ru", "cords": {"lat": 52.7214, "long": 41.4524}},
+    {"title": "Tomsk", "translation": "Томск", "domain": "ru", "cords": {"lat": 56.4881, "long": 84.949}},
+    {"title": "Tula", "translation": "Тула", "domain": "ru", "cords": {"lat": 54.1951, "long": 37.6198}},
+    {"title": "Tver", "translation": "Тверь", "domain": "ru", "cords": {"lat": 56.8588, "long": 35.9174}},
+    {"title": "Torzhok", "translation": "Торжок", "domain": "ru", "cords": {"lat": 57.0413, "long": 34.9601}},
+    {"title": "Rzhev", "translation": "Ржев", "domain": "ru", "cords": {"lat": 56.2583, "long": 34.3286}},
+    {"title": "Toropets", "translation": "Торопец", "domain": "ru", "cords": {"lat": 56.4951, "long": 31.6432}},
+    {"title": "Tyumen", "translation": "Тюмень", "domain": "ru", "cords": {"lat": 57.1596, "long": 65.5285}},
+    {"title": "Ulyanovsk", "translation": "Ульяновск", "domain": "ru", "cords": {"lat": 54.3187, "long": 48.3978}},
+    {"title": "Vladimir", "translation": "Владимир", "domain": "ru", "cords": {"lat": 56.1277, "long": 40.4089}},
+    {"title": "Volgograd", "translation": "Волгоград", "domain": "ru", "cords": {"lat": 48.7094, "long": 44.514}},
+    {"title": "Vologda", "translation": "Вологда", "domain": "ru", "cords": {"lat": 59.2196, "long": 39.8929}},
+    {"title": "Cherepovets", "translation": "Череповец", "domain": "ru", "cords": {"lat": 59.1224, "long": 37.9298}},
+    {"title": "Voronezh", "translation": "Воронеж", "domain": "ru", "cords": {"lat": 51.6608, "long": 39.2005}},
+    {"title": "Yaroslavl", "translation": "Ярославль", "domain": "ru", "cords": {"lat": 57.6263, "long": 39.8848}},
+    {"title": "Rybinsk", "translation": "Рыбинск", "domain": "ru", "cords": {"lat": 58.0491, "long": 38.856}},
+    {"title": "Birobidzhan", "translation": "Биробиджан", "domain": "ru", "cords": {"lat": 48.7886, "long": 132.9354}},
+    {"title": "Anadyr", "translation": "Анадырь", "domain": "ru", "cords": {"lat": 64.736, "long": 177.5197}},
+    {"title": "Khanty-Mansiysk", "translation": "Ханты-Мансийск", "domain": "ru", "cords": {"lat": 61.0031, "long": 69.0189}},
+    {"title": "Naryan-Mar", "translation": "Нарьян-Мар", "domain": "ru", "cords": {"lat": 67.6776, "long": 53.1289}},
+    {"title": "Salekhard", "translation": "Салехард", "domain": "ru", "cords": {"lat": 66.5224, "long": 66.5899}},
     {
         "title": "Minsk",
         "translation": "Минск",
+        "domain": "by",
         "cords": {
             "lat": 53.9024,
             "long": 27.5622
@@ -741,6 +818,7 @@
     {
         "title": "Volozhin",
         "translation": "Воложин",
+        "domain": "by",
         "cords": {
             "lat": 54.0902,
             "long": 26.528
@@ -749,6 +827,7 @@
     {
         "title": "Polotsk",
         "translation": "Полоцк",
+        "domain": "by",
         "cords": {
             "lat": 55.4846,
             "long": 28.7785
@@ -757,6 +836,7 @@
     {
         "title": "Orsha",
         "translation": "Орша",
+        "domain": "by",
         "cords": {
             "lat": 54.5108,
             "long": 30.4295
@@ -765,6 +845,7 @@
     {
         "title": "Borisov",
         "translation": "Борисов",
+        "domain": "by",
         "cords": {
             "lat": 54.2462,
             "long": 28.5058
@@ -773,6 +854,7 @@
     {
         "title": "Molodechno",
         "translation": "Молодечно",
+        "domain": "by",
         "cords": {
             "lat": 54.3074,
             "long": 26.8396
@@ -781,6 +863,7 @@
     {
         "title": "Cherven",
         "translation": "Червень",  
+        "domain": "by",
         "cords": {
             "lat": 53.7145,
             "long": 28.4187
@@ -789,6 +872,7 @@
     {
         "title": "Vitebsk",
         "translation": "Витебск",
+        "domain": "by",
         "cords": {
             "lat": 55.1959,
             "long": 30.2051
@@ -797,6 +881,7 @@
     {
         "title": "Mogilev",
         "translation": "Могилёв",
+        "domain": "by",
         "cords": {
             "lat": 53.8948,
             "long": 30.3307
@@ -805,6 +890,7 @@
     {
         "title": "Bobruisk",
         "translation": "Бобруйск",
+        "domain": "by",
         "cords": {
             "lat": 53.1335,
             "long": 29.2279
@@ -813,6 +899,7 @@
     {
         "title": "Rogachev",
         "translation": "Рогачёв",
+        "domain": "by",
         "cords": {
             "lat": 53.0822,
             "long": 30.0528
@@ -821,6 +908,7 @@
     {
         "title": "Zhlobin",
         "translation": "Жлобин",
+        "domain": "by",
         "cords": {
             "lat": 52.8924,
             "long": 30.0379
@@ -829,6 +917,7 @@
     {
         "title": "Parichi",
         "translation": "Паричи",
+        "domain": "by",
         "cords": {
             "lat": 52.8075,
             "long": 29.4229
@@ -837,6 +926,7 @@
     {
         "title": "Rechitsa",
         "translation": "Речица",
+        "domain": "by",
         "cords": {
             "lat": 52.3724,
             "long": 30.388
@@ -845,6 +935,7 @@
     {
         "title": "Gomel",
         "translation": "Гомель",  
+        "domain": "by",
         "cords": {
             "lat": 52.426,
             "long": 31.0140
@@ -853,6 +944,7 @@
     {
         "title": "Mozyr",
         "translation": "Мозырь",  
+        "domain": "by",
         "cords": {
             "lat": 52.0474,
             "long": 29.2655
@@ -861,6 +953,7 @@
     {
         "title": "Brest",
         "translation": "Брест",  
+        "domain": "by",
         "cords": {
             "lat": 52.0981,
             "long": 23.6886
@@ -869,6 +962,7 @@
     {
         "title": "Lida",
         "translation": "Лида",
+        "domain": "by",
         "cords": {
             "lat": 53.8874,
             "long": 25.3027
@@ -877,6 +971,7 @@
     {
         "title": "Novogrudok",
         "translation": "Новогрудок",
+        "domain": "by",
         "cords": {
             "lat": 53.6016,
             "long": 25.8276
@@ -885,6 +980,7 @@
     {
         "title": "Smorgon",
         "translation": "Сморгонь",
+        "domain": "by",
         "cords": {
             "lat": 54.4814,
             "long": 26.4019
@@ -893,6 +989,7 @@
     {
         "title": "Nesvizh",
         "translation": "Несвиж",
+        "domain": "by",
         "cords": {
             "lat": 53.2189,
             "long": 26.6815
@@ -901,6 +998,7 @@
     {
         "title": "Slonim",
         "translation": "Слоним",
+        "domain": "by",
         "cords": {
             "lat": 53.0928,
             "long": 25.3195
@@ -909,6 +1007,7 @@
     {
         "title": "Baranovichi",
         "translation": "Барановичи",
+        "domain": "by",
         "cords": {
             "lat": 53.1347,
             "long": 26.0146
@@ -917,6 +1016,7 @@
     {
         "title": "Grodno",
         "translation": "Гродно",
+        "domain": "by",
         "cords": {
             "lat": 53.6782,
             "long": 23.8308
@@ -925,6 +1025,7 @@
     {
         "title": "Slutsk",
         "translation": "Слуцк",
+        "domain": "by",
         "cords": {
             "lat": 53.0275,
             "long": 27.5529
@@ -933,6 +1034,7 @@
     {
         "title": "Soligorsk",
         "translation": "Солигорск",
+        "domain": "by",
         "cords": {
             "lat": 52.7873,
             "long": 27.5255
@@ -941,6 +1043,7 @@
     {
         "title": "Luninets",
         "translation": "Лунинец",
+        "domain": "by",
         "cords": {
             "lat": 52.2566,
             "long": 26.7977
@@ -949,6 +1052,7 @@
     {
         "title": "Pinsk",
         "translation": "Пинск",
+        "domain": "by",
         "cords": {
             "lat": 52.1116,
             "long": 26.1027
@@ -957,6 +1061,7 @@
     {
         "title": "Kobrin",
         "translation": "Кобрин",
+        "domain": "by",
         "cords": {
             "lat": 52.2127,
             "long": 24.3578
@@ -965,6 +1070,7 @@
     {
         "title": "Prague",
         "translation": "Прага",
+        "domain": "cz",
         "cords": {
             "lat": 50.0876,
             "long": 14.4211
@@ -973,6 +1079,7 @@
     {
         "title": "Chomutov",
         "translation": "Хомутов",
+        "domain": "cz",
         "cords": {
             "lat": 50.4609,
             "long": 13.4175
@@ -981,6 +1088,7 @@
     {
         "title": "Brno",
         "translation": "Брно",
+        "domain": "cz",
         "cords": {
             "lat": 49.1952,
             "long": 16.6081
@@ -989,6 +1097,7 @@
     {
         "title": "Ostrava",
         "translation": "Острава",
+        "domain": "cz",
         "cords": {
             "lat": 49.8357,
             "long": 49.8357
@@ -997,6 +1106,7 @@
     {
         "title": "Olomouc",
         "translation": "Оломоуц",
+        "domain": "cz",
         "cords": {
             "lat": 49.5939,
             "long": 17.2507
@@ -1005,6 +1115,7 @@
     {
         "title": "Plzen",
         "translation": "Плзень",
+        "domain": "cz",
         "cords": {
             "lat": 49.747,
             "long": 13.3772
@@ -1013,6 +1124,7 @@
     {
         "title": "Ceske Budejovice",
         "translation": "Ческе Будеёвице",
+        "domain": "cz",
         "cords": {
             "lat": 48.9745,
             "long": 14.474
@@ -1021,6 +1133,7 @@
     {
         "title": "Karlovy Vary",
         "translation": "Карловы вары",
+        "domain": "cz",
         "cords": {
             "lat": 50.2222,
             "long": 12.8826
@@ -1029,6 +1142,7 @@
     {
         "title": "Jihlava",
         "translation": "Йиглава",
+        "domain": "cz",
         "cords": {
             "lat": 49.3962,
             "long": 15.59
@@ -1037,6 +1151,7 @@
     {
         "title": "Bratislava",
         "translation": "Братислава",
+        "domain": "sk",
         "cords": {
             "lat": 48.1434,
             "long": 17.1082
@@ -1045,6 +1160,7 @@
     {
         "title": "Kosice",
         "translation": "Кошице",
+        "domain": "sk",
         "cords": {
             "lat": 48.7206,
             "long": 21.2575
@@ -1053,6 +1169,7 @@
     {
         "title": "Trencin",
         "translation": "Тренчин",
+        "domain": "sk",
         "cords": {
             "lat": 48.8951,
             "long": 18.0412
@@ -1061,6 +1178,7 @@
     {
         "title": "Nitra",
         "translation": "Нитра",
+        "domain": "sk",
         "cords": {
             "lat": 48.3137,
             "long": 18.088
@@ -1069,6 +1187,7 @@
     {
         "title": "Zilina",
         "translation": "Жилина",
+        "domain": "sk",
         "cords": {
             "lat": 49.2233,
             "long": 18.7395
@@ -1077,6 +1196,7 @@
     {
         "title": "Banska Bystrica",
         "translation": "Банска-Бистрица",
+        "domain": "sk",
         "cords": {
             "lat": 49.2233,
             "long": 18.7395
@@ -1085,6 +1205,7 @@
     {
         "title": "Presov",
         "translation": "Прешов",
+        "domain": "sk",
         "cords": {
             "lat": 48.998,
             "long": 21.2398
@@ -1093,6 +1214,7 @@
     {
         "title": "Warsaw",
         "translation": "Варшава",
+        "domain": "pl",
         "cords": {
             "lat": 52.2498,
             "long": 21.0121
@@ -1101,6 +1223,7 @@
     {
         "title": "Krakow",
         "translation": "Краков",
+        "domain": "pl",
         "cords": {
             "lat": 50.0618,
             "long": 19.937
@@ -1109,6 +1232,7 @@
     {
         "title": "Wroclaw",
         "translation": "Вроцлав",
+        "domain": "pl",
         "cords": {
             "lat": 51.1101,
             "long": 17.0306
@@ -1117,6 +1241,7 @@
     {
         "title": "Lodz",
         "translation": "Лодзь", 
+        "domain": "pl",
         "cords": {
             "lat": 51.7767,
             "long": 19.4544
@@ -1125,6 +1250,7 @@
     {
         "title": "Szczecin",
         "translation": "Щецин",
+        "domain": "pl",
         "cords": {
             "lat": 53.426,
             "long": 14.5597
@@ -1133,6 +1259,7 @@
     {
         "title": "Katowice",
         "translation": "Катовице",
+        "domain": "pl",
         "cords": {
             "lat": 50.2593,
             "long": 19.0215
@@ -1141,6 +1268,7 @@
     {
         "title": "Gdansk",
         "translation": "Гданьск",
+        "domain": "pl",
         "cords": {
             "lat": 54.3503,
             "long": 18.6526
@@ -1149,6 +1277,7 @@
     {
         "title": "Czestochowa",
         "translation": "Чентосхова",
+        "domain": "pl",
         "cords": {
             "lat": 50.8124,
             "long": 19.1129
@@ -1157,6 +1286,7 @@
     {
         "title": "Rzeszow",
         "translation": "Жешув",
+        "domain": "pl",
         "cords": {
             "lat": 50.0375,
             "long": 22.004
@@ -1165,6 +1295,7 @@
     {
         "title": "Lublin",
         "translation": "Люблин",
+        "domain": "pl",
         "cords": {
             "lat": 51.2487,
             "long": 22.5691
@@ -1173,6 +1304,7 @@
     {
         "title": "Bialystok",
         "translation": "Белосток",
+        "domain": "pl",
         "cords": {
             "lat": 53.1322,
             "long": 23.1633
@@ -1181,6 +1313,7 @@
     {
         "title": "Budapest",
         "translation": "Будапешт",
+        "domain": "hu",
         "cords": {
             "lat": 47.5066,
             "long": 19.0473
@@ -1189,6 +1322,7 @@
     {
         "title": "Miskolc",
         "translation": "Мишкольц",
+        "domain": "hu",
         "cords": {
             "lat": 48.1043,
             "long": 20.7891
@@ -1197,6 +1331,7 @@
     {
         "title": "Szekesfehervar",
         "translation": "Секешфехервар",
+        "domain": "hu",
         "cords": {
             "lat": 47.19347,
             "long": 18.4087
@@ -1205,6 +1340,7 @@
     {
         "title": "Szolnok",
         "translation": "Сольнок",
+        "domain": "hu",
         "cords": {
             "lat": 47.1753,
             "long": 20.1925
@@ -1213,6 +1349,7 @@
     {
         "title": "Bucharest",
         "translation": "Бухарест",
+        "domain": "ro",
         "cords": {
             "lat": 44.4333,
             "long": 26.0997
@@ -1221,6 +1358,7 @@
     {
         "title": "Cluj-Napoca",
         "translation": "Клуж",
+        "domain": "ro",
         "cords": {
             "lat": 46.7694,
             "long": 23.5896
@@ -1229,6 +1367,7 @@
     {
         "title": "Iasi",
         "translation": "Яссы",
+        "domain": "ro",
         "cords": {
             "lat": 47.15963,
             "long": 27.5877
@@ -1237,6 +1376,7 @@
     {
         "title": "Targu Mures",
         "translation": "Тыргу-Муреш",
+        "domain": "ro",
         "cords": {
             "lat": 46.5461,
             "long": 24.5634
@@ -1245,6 +1385,7 @@
     {
         "title": "Sighisoara",
         "translation": "Сигишоара",
+        "domain": "ro",
         "cords": {
             "lat": 46.22303,
             "long": 24.7731
@@ -1253,6 +1394,7 @@
     {
         "title": "Chisinau",
         "translation": "Кишинёв",
+        "domain": "md",
         "cords": {
             "lat": 47.0246,
             "long": 28.8321
@@ -1261,6 +1403,7 @@
     {
         "title": "Balti",
         "translation": "Бельцы",
+        "domain": "md",
         "cords": {
             "lat": 47.7599,
             "long": 27.9251
@@ -1269,6 +1412,7 @@
     {
         "title": "Tiraspol",
         "translation": "Тирасполь",
+        "domain": "md",
         "cords": {
             "lat": 46.8367,
             "long": 29.6267
@@ -1277,6 +1421,7 @@
     {
         "title": "Tbilisi",
         "translation": "Тбилиси",
+        "domain": "ge",
         "cords": {
             "lat": 41.6934,
             "long": 44.8012
@@ -1285,6 +1430,7 @@
     {
         "title": "Kutaisi",
         "translation": "Кутаиси",
+        "domain": "ge",
         "cords": {
             "lat": 42.2715,
             "long": 42.7054
@@ -1293,6 +1439,7 @@
     {
         "title": "Batumi",
         "translation": "Батуми",
+        "domain": "ge",
         "cords": {
             "lat": 41.6509,
             "long": 41.636
@@ -1301,6 +1448,7 @@
     {
         "title": "Borjomi",
         "translation": "Боржоми",
+        "domain": "ge",
         "cords": {
             "lat": 41.839,
             "long": 43.3799
@@ -1309,6 +1457,7 @@
     {
         "title": "Sukhumi",
         "translation": "Сухуми",
+        "domain": "ge",
         "cords": {
             "lat": 43.0034,
             "long": 41.0194
@@ -1317,6 +1466,7 @@
     {
         "title": "Yerevan",
         "translation": "Ереван",
+        "domain": "am",
         "cords": {
             "lat": 40.1781,
             "long": 44.5124
@@ -1325,6 +1475,7 @@
     {
         "title": "Stepanavan",
         "translation": "Степанаван",
+        "domain": "am",
         "cords": {
             "lat": 41.0084,
             "long": 44.3839
@@ -1333,6 +1484,7 @@
     {
         "title": "Sophia",
         "translation": "София",
+        "domain": "bg",
         "cords": {
             "lat": 42.6966,
             "long": 23.3212
@@ -1341,6 +1493,7 @@
     {
         "title": "Varna",
         "translation": "Варна",
+        "domain": "bg",
         "cords": {
             "lat": 43.2035,
             "long": 27.91274
@@ -1349,6 +1502,7 @@
     {
         "title": "Plovdiv",
         "translation": "Пловдив",
+        "domain": "bg",
         "cords": {
             "lat": 42.1476,
             "long": 24.748
@@ -1357,6 +1511,7 @@
     {
         "title": "Veliko Tarnovo",
         "translation": "Велико-Тырново",
+        "domain": "bg",
         "cords": {
             "lat": 43.0819,
             "long": 25.6322
@@ -1365,6 +1520,7 @@
     {
         "title": "Athens",
         "translation": "Афины",
+        "domain": "gr",
         "cords": {
             "lat": 37.9715,
             "long": 23.7266
@@ -1373,6 +1529,7 @@
     {
         "title": "Thessaloniki",
         "translation": "Салоники",
+        "domain": "gr",
         "cords": {
             "lat": 40.6329,
             "long": 22.9464
@@ -1381,6 +1538,7 @@
     {
         "title": "Larisa",
         "translation": "Лариса",
+        "domain": "gr",
         "cords": {
             "lat": 39.6391,
             "long": 22.4190
@@ -1389,6 +1547,7 @@
     {
         "title": "Kavala",
         "translation": "Кавала", 
+        "domain": "gr",
         "cords": {
             "lat": 40.9343,
             "long": 24.415
@@ -1397,6 +1556,7 @@
     {
         "title": "Ioannina",
         "translation": "Янина",
+        "domain": "gr",
         "cords": {
             "lat": 39.6708,
             "long": 20.86212
@@ -1405,6 +1565,7 @@
     {
         "title": "Patras",
         "translation": "Патры",
+        "domain": "gr",
         "cords": {
             "lat": 38.24623,
             "long": 21.7350
@@ -1412,6 +1573,8 @@
     },
     {
         "title": "Heraklion",
+        "translation": "Ираклион",
+        "domain": "gr",
         "cords": {
             "lat": 35.3401,
             "long": 25.1343
@@ -1420,6 +1583,7 @@
     {
         "title": "Istanbul",
         "translation": "Стамбул",
+        "domain": "tr",
         "cords": {
             "lat": 41.0085,
             "long": 28.9798
@@ -1428,6 +1592,7 @@
     {
         "title": "Izmir",
         "translation": "Измир",
+        "domain": "tr",
         "cords": {
             "lat": 38.4215,
             "long": 27.1336
@@ -1436,6 +1601,7 @@
     {
         "title": "Jerusalem",
         "translation": "Иерусалим",
+        "domain": "il",
         "cords": {
             "lat": 31.7784,
             "long": 35.2301
@@ -1444,6 +1610,7 @@
     {
         "title": "Tel Aviv",
         "translation": "Тель-Авив",
+        "domain": "il",
         "cords": {
             "lat": 32.05579,
             "long": 34.7566
@@ -1452,6 +1619,7 @@
     {
         "title": "Belgrad",
         "translation": "Белград",
+        "domain": "rs",
         "cords": {
             "lat": 44.8164,
             "long": 20.4604
@@ -1460,6 +1628,7 @@
     {
         "title": "Novi Sad",
         "translation": "Новый Сад",
+        "domain": "rs",
         "cords": {
             "lat": 45.2576,
             "long": 19.8494
@@ -1468,6 +1637,7 @@
     {
         "title": "Subotica",
         "translation": "Суботица",
+        "domain": "rs",
         "cords": {
             "lat": 46.1,
             "long": 19.665
@@ -1476,6 +1646,7 @@
     {
         "title": "Niches",
         "translation": "Ниш",
+        "domain": "rs",
         "cords": {
             "lat": 43.3209,
             "long": 21.8957
@@ -1484,6 +1655,7 @@
     {
         "title": "Zagreb",
         "translation": "Загреб",
+        "domain": "hr",
         "cords": {
             "lat": 45.813,
             "long": 15.9773
@@ -1492,6 +1664,7 @@
     {
         "title": "Rijeka",
         "translation": "Риека",
+        "domain": "hr",
         "cords": {
             "lat": 45.3264,
             "long": 14.4427
@@ -1500,6 +1673,7 @@
     {
         "title": "Zadar",
         "translation": "Задар",
+        "domain": "hr",
         "cords": {
             "lat": 44.1157,
             "long": 15.2242
@@ -1508,6 +1682,7 @@
     {
         "title": "Split",
         "translation": "Сплит",
+        "domain": "hr",
         "cords": {
             "lat": 43.5089,
             "long": 16.4387
@@ -1515,7 +1690,8 @@
     },
     {
         "title": "Dubrovnik",
-        "translation": "Дубровик",
+        "translation": "Дубровник",
+        "domain": "hr",
         "cords": {
             "lat": 42.6398,
             "long": 18.1102
@@ -1524,6 +1700,7 @@
     {
         "title": "Ljubljana",
         "translation": "Лябляна",
+        "domain": "si",
         "cords": {
             "lat": 46.0501,
             "long": 14.507
@@ -1532,6 +1709,7 @@
     {
         "title": "Maribor",
         "translation": "Марибор",
+        "domain": "si",
         "cords": {
             "lat": 46.5576,
             "long": 15.6453
@@ -1540,6 +1718,7 @@
     {
         "title": "Kranj",
         "translation": "Крань",
+        "domain": "si",
         "cords": {
             "lat": 46.239,
             "long": 14.3559
@@ -1548,6 +1727,7 @@
     {
         "title": "Roma",
         "translation": "Рим",
+        "domain": "it",
         "cords": {
             "lat": 41.8956,
             "long": 12.4825
@@ -1556,6 +1736,7 @@
     {
         "title": "Palermo",
         "translation": "Палермо",
+        "domain": "it",
         "cords": {
             "lat": 38.1246,
             "long": 13.3553
@@ -1564,6 +1745,7 @@
     {
         "title": "Catania",
         "translation": "Катания", 
+        "domain": "it",
         "cords": {
             "lat": 37.5024,
             "long": 15.0876
@@ -1572,6 +1754,7 @@
     {
         "title": "Bari",
         "translation": "Бари",
+        "domain": "it",
         "cords": {
             "lat": 41.1235,
             "long": 16.8724
@@ -1580,6 +1763,7 @@
     {
         "title": "Napoli",
         "translation": "Неаполь",
+        "domain": "it",
         "cords": {
             "lat": 40.8386,
             "long": 14.2529
@@ -1588,6 +1772,7 @@
     {
         "title": "Pescara",
         "translation": "Пескара",
+        "domain": "it",
         "cords": {
             "lat": 42.46,
             "long": 14.2123
@@ -1596,6 +1781,7 @@
     {
         "title": "Terni",
         "translation": "Терни",
+        "domain": "it",
         "cords": {
             "lat": 42.5597,
             "long": 12.6432
@@ -1604,6 +1790,7 @@
     {
         "title": "Firenze",
         "translation": "Флоренция",
+        "domain": "it",
         "cords": {
             "lat": 43.7714,
             "long": 11.2539
@@ -1612,6 +1799,7 @@
     {
         "title": "San Marino",
         "translation": "Сан-Марино",
+        "domain": "sm",
         "cords": {
             "lat": 43.9369,
             "long": 12.4469
@@ -1620,6 +1808,7 @@
     {
         "title": "Pisa",
         "translation": "Пиза",
+        "domain": "it",
         "cords": {
             "lat": 43.7194,
             "long": 10.3999
@@ -1628,6 +1817,7 @@
     {
         "title": "Bologna",
         "translation": "Болонья",
+        "domain": "it",
         "cords": {
             "lat": 44.4938,
             "long": 11.3428
@@ -1636,6 +1826,7 @@
     {
         "title": "Venezia",
         "translation": "Венеция",
+        "domain": "it",
         "cords": {
             "lat": 45.434,
             "long": 12.3382
@@ -1644,6 +1835,7 @@
     {
         "title": "Trieste",
         "translation": "Триест",
+        "domain": "it",
         "cords": {
             "lat": 45.65,
             "long": 13.7676
@@ -1652,206 +1844,43 @@
     {
         "title": "Verona",
         "translation": "Верона",
+        "domain": "it",
         "cords": {
             "lat": 45.4386,
             "long": 10.9934
         }
     },
     {
-        "title": "Genova",
-        "translation": "Женева",
-        "cords": {
-            "lat": 44.4070,
-            "long": 8.93412
-        }
-    },
-    {
         "title": "Torino",
         "translation": "Турин",
+        "domain": "it",
         "cords": {
             "lat": 45.07078,
             "long": 7.6855
         }
     },
     {
-        "title": "Milano",
-        "translation": "Милан",
-        "cords": {
-            "lat": 45.464,
-            "long": 9.1893
-        }
-    },
-    {
-        "title": "Madrid",
-        "translation": "Мадрид",
-        "cords": {
-            "lat": 40.4168,
-            "long": -3.7033
-        }
-    },
-    {
-        "title": "Barcelona",
-        "translation": "Барселона",
-        "cords": {
-            "lat": 41.3846,
-            "long": 2.1759
-        }
-    },
-    {
-        "title": "Zaragoza",
-        "translation": "Сарагоса",
-        "cords": {
-            "lat": 41.6551,
-            "long": -0.8759
-        }
-    },
-    {
-        "title": "Valencia",
-        "translation": "Валенсия",
-        "cords": {
-            "lat": 39.4748,
-            "long": -0.3754
-        }
-    },
-    {
-        "title": "Murcia",
-        "translation": "Мурсия",
-        "cords": {
-            "lat": 37.9838,
-            "long": -1.1292
-        }
-    },
-    {
-        "title": "Bilbo",
-        "translation": "Бильбао",
-        "cords": {
-            "lat": 43.2572,
-            "long": -2.924
-        }
-    },
-    {
-        "title": "Sevilla",
-        "translation": "Севилья",
-        "cords": {
-            "lat": 37.3858,
-            "long": -5.993
-        }
-    },
-    {
-        "title": "Malaga",
-        "translation": "Малага",
-        "cords": {
-            "lat": 36.72,
-            "long": -4.4197
-        }
-    },
-    {
-        "title": "Lisboa",
-        "translation": "Лиссабон",
-        "cords": {
-            "lat": 38.7138,
-            "long": -9.1334
-        }
-    },
-    {
-        "title": "Porto",
-        "translation": "Порту",
-        "cords": {
-            "lat": 41.1496,
-            "long": -8.6108
-        }
-    },
-    {
-        "title": "Braga",
-        "translation": "Брага",
-        "cords": {
-            "lat": 41.5499,
-            "long": -8.4272
-        }
-    },
-    {
-        "title": "Coimbra",
-        "translation": "Коимбра",
-        "cords": {
-            "lat": 40.2091,
-            "long": -8.4245
-        }
-    },
-    {
-        "title": "Faro",
-        "translation": "Фаро",
-        "cords": {
-            "lat": 37.013,
-            "long": -7.9341
-        }
-    },
-    {
-        "title": "Paris",
-        "translation": "Париж",
-        "cords": {
-            "lat": 48.8533,
-            "long": 2.3491
-        }
-    },
-    {
-        "title": "Lyon",
-        "translation": "Лион",
-        "cords": {
-            "lat": 45.7575,
-            "long": 4.8315
-        }
-    },
-    {
-        "title": "Marseille",
-        "translation": "Марсель",
-        "cords": {
-            "lat": 43.28393,
-            "long": 5.37107
-        }
-    },
-    {
-        "title": "Toulouse",
-        "translation": "Тулуза",
-        "cords": {
-            "lat": 43.6042,
-            "long": 1.443
-        }
-    },
-    {
-        "title": "Bordeaux",
-        "translation": "Бордо",
-        "cords": {
-            "lat": 44.8376,
-            "long": -0.5778
-        }
-    },
-    {
-        "title": "Rouen",
-        "translation": "Руан",
-        "cords": {
-            "lat": 49.4403,
-            "long": 1.09442
-        }
-    },
-    {
-        "title": "Nantes",
-        "translation": "Нанты",
-        "cords": {
-            "lat": 47.2162,
-            "long": -1.5494
-        }
-    },
-    {
         "title": "Bern",
         "translation": "Берн",
+        "domain": "ch",
         "cords": {
             "lat": 46.9471,
             "long": 7.4441
         }
     },
     {
+        "title": "Luzern",
+        "translation": "Люцерн",
+        "domain": "ch",
+        "cords": {
+            "lat": 47.0536,
+            "long": 8.3086
+        }
+    },
+    {
         "title": "Zurich",
         "translation": "Цюрих",
+        "domain": "ch",
         "cords": {
             "lat": 47.3696,
             "long": 8.5387
@@ -1860,6 +1889,7 @@
     {
         "title": "Basel",
         "translation": "Базель",
+        "domain": "ch",
         "cords": {
             "lat": 47.5582,
             "long": 7.5877
@@ -1868,6 +1898,7 @@
     {
         "title": "Geneve",
         "translation": "Женева",
+        "domain": "ch",
         "cords": {
             "lat": 46.2012,
             "long": 6.1478
@@ -1876,22 +1907,205 @@
     {
         "title": "Lausanne",
         "translation": "Лозанна",
+        "domain": "ch",
         "cords": {
             "lat": 46.5234,
             "long": 6.6328
         }
     },
     {
-        "title": "Luzern",
-        "translation": "Люцерг",
+        "title": "Milano",
+        "translation": "Милан",
+        "domain": "it",
         "cords": {
-            "lat": 47.0536,
-            "long": 8.3086
+            "lat": 45.464,
+            "long": 9.1893
+        }
+    },
+    {
+        "title": "Madrid",
+        "translation": "Мадрид",
+        "domain": "es",
+        "cords": {
+            "lat": 40.4168,
+            "long": -3.7033
+        }
+    },
+    {
+        "title": "Barcelona",
+        "translation": "Барселона",
+        "domain": "es",
+        "cords": {
+            "lat": 41.3846,
+            "long": 2.1759
+        }
+    },
+    {
+        "title": "Zaragoza",
+        "translation": "Сарагоса",
+        "domain": "es",
+        "cords": {
+            "lat": 41.6551,
+            "long": -0.8759
+        }
+    },
+    {
+        "title": "Valencia",
+        "translation": "Валенсия",
+        "domain": "es",
+        "cords": {
+            "lat": 39.4748,
+            "long": -0.3754
+        }
+    },
+    {
+        "title": "Murcia",
+        "translation": "Мурсия",
+        "domain": "es",
+        "cords": {
+            "lat": 37.9838,
+            "long": -1.1292
+        }
+    },
+    {
+        "title": "Bilbo",
+        "translation": "Бильбао",
+        "domain": "es",
+        "cords": {
+            "lat": 43.2572,
+            "long": -2.924
+        }
+    },
+    {
+        "title": "Sevilla",
+        "translation": "Севилья",
+        "domain": "es",
+        "cords": {
+            "lat": 37.3858,
+            "long": -5.993
+        }
+    },
+    {
+        "title": "Malaga",
+        "translation": "Малага",
+        "domain": "es",
+        "cords": {
+            "lat": 36.72,
+            "long": -4.4197
+        }
+    },
+    {
+        "title": "Lisboa",
+        "translation": "Лиссабон",
+        "domain": "pt",
+        "cords": {
+            "lat": 38.7138,
+            "long": -9.1334
+        }
+    },
+    {
+        "title": "Porto",
+        "translation": "Порту",
+        "domain": "pt",
+        "cords": {
+            "lat": 41.1496,
+            "long": -8.6108
+        }
+    },
+    {
+        "title": "Braga",
+        "translation": "Брага",
+        "domain": "pt",
+        "cords": {
+            "lat": 41.5499,
+            "long": -8.4272
+        }
+    },
+    {
+        "title": "Coimbra",
+        "translation": "Коимбра",
+        "domain": "pt",
+        "cords": {
+            "lat": 40.2091,
+            "long": -8.4245
+        }
+    },
+    {
+        "title": "Faro",
+        "translation": "Фаро",
+        "domain": "pt",
+        "cords": {
+            "lat": 37.013,
+            "long": -7.9341
+        }
+    },
+    {
+        "title": "Paris",
+        "translation": "Париж",
+        "domain": "fr",
+        "cords": {
+            "lat": 48.8533,
+            "long": 2.3491
+        }
+    },
+    {
+        "title": "Lyon",
+        "translation": "Лион",
+        "domain": "fr",
+        "cords": {
+            "lat": 45.7575,
+            "long": 4.8315
+        }
+    },
+    {
+        "title": "Marseille",
+        "translation": "Марсель",
+        "domain": "fr",
+        "cords": {
+            "lat": 43.28393,
+            "long": 5.37107
+        }
+    },
+    {
+        "title": "Toulouse",
+        "translation": "Тулуза",
+        "domain": "fr",
+        "cords": {
+            "lat": 43.6042,
+            "long": 1.443
+        }
+    },
+    {
+        "title": "Bordeaux",
+        "translation": "Бордо",
+        "domain": "fr",
+        "cords": {
+            "lat": 44.8376,
+            "long": -0.5778
+        }
+    },
+    {
+        "title": "Rouen",
+        "translation": "Руан",
+        "domain": "fr",
+        "cords": {
+            "lat": 49.4403,
+            "long": 1.09442
+        }
+    },
+    {
+        "title": "Nantes",
+        "translation": "Нанты",
+        "domain": "fr",
+        "cords": {
+            "lat": 47.2162,
+            "long": -1.5494
         }
     },
     {
         "title": "Nicosia",
         "translation": "Никосия",
+        "domain": "cy",
         "cords": {
             "lat": 35.1749,
             "long": 33.3641
@@ -1900,6 +2114,7 @@
     {
         "title": "Pathos",
         "translation": "Пафос",
+        "domain": "cy",
         "cords": {
             "lat": 34.7571,
             "long": 32.41603
@@ -1908,6 +2123,7 @@
     {
         "title": "Limassol",
         "translation": "Лимассол",
+        "domain": "cy",
         "cords": {
             "lat": 34.6722,
             "long": 33.0419
@@ -1916,6 +2132,7 @@
     {
         "title": "Berlin",
         "translation": "Берлин",
+        "domain": "de",
         "cords": {
             "lat": 52.5179,
             "long": 13.4007
@@ -1924,6 +2141,7 @@
     {
         "title": "Luxembourg",
         "translation": "Люксембург",
+        "domain": "lu",
         "cords": {
             "lat": 49.6106,
             "long": 6.131
@@ -1932,6 +2150,7 @@
     {
         "title": "Munchen",
         "translation": "Мюнхен",
+        "domain": "de",
         "cords": {
             "lat": 48.1371,
             "long": 11.5754
@@ -1940,6 +2159,7 @@
     {
         "title": "Hamburg",
         "translation": "Гамбург",
+        "domain": "de",
         "cords": {
             "lat": 53.5475,
             "long": 9.9903
@@ -1948,6 +2168,7 @@
     {
         "title": "Koln",
         "translation": "Кёльн",
+        "domain": "de",
         "cords": {
             "lat": 50.9369,
             "long": 6.9607
@@ -1956,6 +2177,7 @@
     {
         "title": "Nurnberg",
         "translation": "Нюрнберг",
+        "domain": "de",
         "cords": {
             "lat": 49.4538,
             "long": 11.0773
@@ -1964,6 +2186,7 @@
     {
         "title": "Frankfurt",
         "translation": "Франкфурт",
+        "domain": "de",
         "cords": {
             "lat": 50.1111,
             "long": 8.67305
@@ -1972,6 +2195,7 @@
     {
         "title": "Stuttgart",
         "translation": "Штутгарт",
+        "domain": "de",
         "cords": {
             "lat": 48.7788,
             "long": 9.1792
@@ -1980,6 +2204,7 @@
     {
         "title": "Leipzig",
         "translation": "Лейпциг",
+        "domain": "de",
         "cords": {
             "lat": 51.3403,
             "long": 12.3746
@@ -1988,6 +2213,7 @@
     {
         "title": "Hannover",
         "translation": "Ганновер",
+        "domain": "de",
         "cords": {
             "lat": 52.3731,
             "long": 9.7401
@@ -1996,6 +2222,7 @@
     {
         "title": "Bremen",
         "translation": "Бремен",
+        "domain": "de",
         "cords": {
             "lat": 53.0758,
             "long": 8.8072
@@ -2004,6 +2231,7 @@
     {
         "title": "Dresden",
         "translation": "Дрезден",
+        "domain": "de",
         "cords": {
             "lat": 51.0519,
             "long": 13.7416
@@ -2012,6 +2240,7 @@
     {
         "title": "Dortmund",
         "translation": "Дортмунд",
+        "domain": "de",
         "cords": {
             "lat": 51.513,
             "long": 7.4647
@@ -2020,6 +2249,7 @@
     {
         "title": "Duisburg",
         "translation": "Дуйсбург",
+        "domain": "de",
         "cords": {
             "lat": 51.4344,
             "long": 6.77
@@ -2028,6 +2258,7 @@
     {
         "title": "Dusseldorf",
         "translation": "Дюссельдорф",
+        "domain": "de",
         "cords": {
             "lat": 51.2265,
             "long": 6.7769
@@ -2036,6 +2267,7 @@
     {
         "title": "Essen",
         "translation": "Эссен",
+        "domain": "de",
         "cords": {
             "lat": 51.4555,
             "long": 7.0136
@@ -2044,6 +2276,7 @@
     {
         "title": "Amsterdam",
         "translation": "Амстердам",
+        "domain": "nl",
         "cords": {
             "lat": 52.373,
             "long": 4.8929
@@ -2052,6 +2285,7 @@
     {
         "title": "Den Haag",
         "translation": "Гаага",
+        "domain": "nl",
         "cords": {
             "lat": 52.0797,
             "long": 4.3221
@@ -2060,6 +2294,7 @@
     {
         "title": "Rotterdam",
         "translation": "Роттердам",
+        "domain": "nl",
         "cords": {
             "lat": 51.9215,
             "long": 4.4847
@@ -2068,6 +2303,7 @@
     {
         "title": "Groningen",
         "translation": "Гронинген",
+        "domain": "nl",
         "cords": {
             "lat": 53.2185,
             "long": 6.5678
@@ -2076,6 +2312,7 @@
     {
         "title": "Zwolle",
         "translation": "Зволле",
+        "domain": "nl",
         "cords": {
             "lat": 52.5118,
             "long": 6.0919
@@ -2084,6 +2321,7 @@
     {
         "title": "Eindhoven",
         "translation": "Эйндховен",
+        "domain": "nl",
         "cords": {
             "lat": 51.4393,
             "long": 5.4774
@@ -2092,6 +2330,7 @@
     {
         "title": "Utrecht",
         "translation": "Утрехт",
+        "domain": "nl",
         "cords": {
             "lat": 52.0904,
             "long": 5.1204
@@ -2100,6 +2339,7 @@
     {
         "title": "Emmen",
         "translation": "Эммен",
+        "domain": "nl",
         "cords": {
             "lat": 52.7867,
             "long": 6.8944
@@ -2108,6 +2348,7 @@
     {
         "title": "Brussel",
         "translation": "Брюссель",
+        "domain": "be",
         "cords": {
             "lat": 50.8466,
             "long": 4.3525
@@ -2116,6 +2357,7 @@
     {
         "title": "Antwerpen",
         "translation": "Антверпен",
+        "domain": "be",
         "cords": {
             "lat": 51.2212,
             "long": 4.3994
@@ -2124,6 +2366,7 @@
     {
         "title": "Gent",
         "translation": "Гент",
+        "domain": "be",
         "cords": {
             "lat": 51.0538,
             "long": 3.7227
@@ -2132,6 +2375,7 @@
     {
         "title": "Brugge",
         "translation": "Брюгге",
+        "domain": "be",
         "cords": {
             "lat": 51.2087,
             "long": 3.2242
@@ -2140,6 +2384,7 @@
     {
         "title": "Liege",
         "translation": "Льеж",
+        "domain": "be",
         "cords": {
             "lat": 50.6366,
             "long": 5.5799
@@ -2148,6 +2393,7 @@
     {
         "title": "Leuven",
         "translation": "Лювен",
+        "domain": "be",
         "cords": {
             "lat": 50.8795,
             "long": 4.701
@@ -2156,6 +2402,7 @@
     {
         "title": "Mons",
         "translation": "Монс",
+        "domain": "be",
         "cords": {
             "lat": 50.4545,
             "long": 3.9523
@@ -2164,6 +2411,7 @@
     {
         "title": "Charleroi",
         "translation": "Шарлеруа",
+        "domain": "be",
         "cords": {
             "lat": 50.4078,
             "long": 4.4424
@@ -2172,6 +2420,7 @@
     {
         "title": "Maastricht",
         "translation": "Маастрихт",
+        "domain": "be",
         "cords": {
             "lat": 50.8513,
             "long": 5.6907
@@ -2180,6 +2429,7 @@
     {
         "title": "Namur",
         "translation": "Намюр",
+        "domain": "be",
         "cords": {
             "lat": 50.463,
             "long": 4.8675
@@ -2188,6 +2438,7 @@
     {
         "title": "Copenhagen",
         "translation": "Копенгаген",
+        "domain": "dk",
         "cords": {
             "lat": 55.6761,
             "long": 12.5687
@@ -2196,6 +2447,7 @@
     {
         "title": "Odense",
         "translation": "Оденсе",
+        "domain": "dk",
         "cords": {
             "lat": 55.3947,
             "long": 10.3835
@@ -2204,6 +2456,7 @@
     {
         "title": "Aalborg",
         "translation": "Ольборг",
+        "domain": "dk",
         "cords": {
             "lat": 57.04859,
             "long": 9.9216
@@ -2212,6 +2465,7 @@
     {
         "title": "Esbierg",
         "translation": "Эсбьорг",
+        "domain": "dk",
         "cords": {
             "lat": 55.4672,
             "long": 8.4488
@@ -2220,6 +2474,7 @@
     {
         "title": "Randers",
         "translation": "Рандерс",
+        "domain": "dk",
         "cords": {
             "lat": 56.4606,
             "long": 10.0396
@@ -2228,6 +2483,7 @@
     {
         "title": "Aarhus",
         "translation": "Орхус",
+        "domain": "dk",
         "cords": {
             "lat": 56.1565,
             "long": 10.2104
@@ -2236,6 +2492,7 @@
     {
         "title": "Riga",
         "translation": "Рига",
+        "domain": "lv",
         "cords": {
             "lat": 56.9466,
             "long": 24.1052
@@ -2244,6 +2501,7 @@
     {
         "title": "Daugavpils",
         "translation": "Даугавпилс",
+        "domain": "lv",
         "cords": {
             "lat": 55.8716,
             "long": 26.5162
@@ -2252,6 +2510,7 @@
     {
         "title": "Ventspils",
         "translation": "Вентспилс",
+        "domain": "lv",
         "cords": {
             "lat": 57.3977,
             "long": 21.5676
@@ -2260,6 +2519,7 @@
     {
         "title": "Liepaja",
         "translation": "Лиепая",
+        "domain": "lv",
         "cords": {
             "lat": 56.5082,
             "long": 21.0122
@@ -2268,6 +2528,7 @@
     {
         "title": "Jelgava",
         "translation": "Елгава",
+        "domain": "lv",
         "cords": {
             "lat": 56.6532,
             "long": 23.7286
@@ -2276,6 +2537,7 @@
     {
         "title": "Rezekne",
         "translation": "Резекне",
+        "domain": "lv",
         "cords": {
             "lat": 56.5067,
             "long": 27.3304
@@ -2284,6 +2546,7 @@
     {
         "title": "Valmiera",
         "translation": "Валмиера",
+        "domain": "lv",
         "cords": {
             "lat": 57.5381,
             "long": 25.4224
@@ -2292,6 +2555,7 @@
     {
         "title": "Kraslava",
         "translation": "Краслава",
+        "domain": "lv",
         "cords": {
             "lat": 55.8955,
             "long": 27.1645
@@ -2300,6 +2564,7 @@
     {
         "title": "Vilnius",
         "translation": "Вильнюс",
+        "domain": "lt",
         "cords": {
             "lat": 54.6854,
             "long": 25.287
@@ -2308,6 +2573,7 @@
     {
         "title": "Kaunas",
         "translation": "Каунас",
+        "domain": "lt",
         "cords": {
             "lat": 54.8968,
             "long": 23.8863
@@ -2316,6 +2582,7 @@
     {
         "title": "Klaipeda",
         "translation": "Клайпеда",
+        "domain": "lt",
         "cords": {
             "lat": 55.7081,
             "long": 21.1323
@@ -2324,6 +2591,7 @@
     {
         "title": "Siauliai",
         "translation": "Шауляй",  
+        "domain": "lt",
         "cords": {
             "lat": 55.9283,
             "long": 23.3204
@@ -2332,6 +2600,7 @@
     {
         "title": "Trakai",
         "translation": "Тракай",
+        "domain": "lt",
         "cords": {
             "lat": 54.6429,
             "long": 24.9338
@@ -2340,6 +2609,7 @@
     {
         "title": "Alytus",
         "translation": "Алитус",
+        "domain": "lt",
         "cords": {
             "lat": 54.3989,
             "long": 24.048
@@ -2348,6 +2618,7 @@
     {
         "title": "Tallinn",
         "translation": "Таллинн",
+        "domain": "ee",
         "cords": {
             "lat": 59.4375,
             "long": 24.7451
@@ -2356,6 +2627,7 @@
     {
         "title": "Tartu",
         "translation": "Тарту",  
+        "domain": "ee",
         "cords": {
             "lat": 58.3804,
             "long": 26.7229
@@ -2364,6 +2636,7 @@
     {
         "title": "Parnu",
         "translation": "Пярну",
+        "domain": "ee",
         "cords": {
             "lat": 58.3857,
             "long": 24.4967
@@ -2372,6 +2645,7 @@
     {
         "title": "Narva",
         "translation": "Нарва",
+        "domain": "ee",
         "cords": {
             "lat": 59.3763,
             "long": 28.19944
@@ -2380,6 +2654,7 @@
     {
         "title": "Voru",
         "translation": "Выру",
+        "domain": "ee",
         "cords": {
             "lat": 57.8481,
             "long": 26.9957
@@ -2388,6 +2663,7 @@
     {
         "title": "Kuressaare",
         "translation": "Курессааре",
+        "domain": "ee",
         "cords": {
             "lat": 58.2529,
             "long": 22.4845
@@ -2396,6 +2672,7 @@
     {
         "title": "Helsinki",
         "translation": "Хельсинки",
+        "domain": "fi",
         "cords": {
             "lat": 60.1695,
             "long": 24.9522
@@ -2404,6 +2681,7 @@
     {
         "title": "Turku",
         "translation": "Турку",
+        "domain": "fi",
         "cords": {
             "lat": 60.4516,
             "long": 22.2669
@@ -2412,6 +2690,7 @@
     {
         "title": "Tampere",
         "translation": "Тампере",
+        "domain": "fi",
         "cords": {
             "lat": 61.5025,
             "long": 23.7698
@@ -2420,6 +2699,7 @@
     {
         "title": "Espoo",
         "translation": "Эспоо",
+        "domain": "fi",
         "cords": {
             "lat": 60.205,
             "long": 24.6541
@@ -2428,6 +2708,7 @@
     {
         "title": "Porvoo",
         "translation": "Порвоо",
+        "domain": "fi",
         "cords": {
             "lat": 60.393,
             "long": 25.6646
@@ -2436,6 +2717,7 @@
     {
         "title": "Lahti",
         "translation": "Лахти",
+        "domain": "fi",
         "cords": {
             "lat": 60.9837,
             "long": 25.6566
@@ -2444,6 +2726,7 @@
     {
         "title": "Kouvola",
         "translation": "Коувола",
+        "domain": "fi",
         "cords": {
             "lat": 60.8682,
             "long": 26.7039
@@ -2452,6 +2735,7 @@
     {
         "title": "Lappeenranta",
         "translation": "Лаппеенранта",
+        "domain": "fi",
         "cords": {
             "lat": 61.0584,
             "long": 28.1888
@@ -2460,6 +2744,7 @@
     {
         "title": "Mikkeli",
         "translation": "Миккели",
+        "domain": "fi",
         "cords": {
             "lat": 61.6892,
             "long": 27.267
@@ -2468,6 +2753,7 @@
     {
         "title": "Mariehamn",
         "translation": "Мариехамн",
+        "domain": "fi",
         "cords": {
             "lat": 60.1019,
             "long": 19.942
@@ -2476,6 +2762,7 @@
     {
         "title": "Vaasa",
         "translation": "Вааса",
+        "domain": "fi",
         "cords": {
             "lat": 63.0957,
             "long": 21.6163
@@ -2484,6 +2771,7 @@
     {
         "title": "Kuopio",
         "translation": "Куопио",
+        "domain": "fi",
         "cords": {
             "lat": 62.893,
             "long": 27.6783
@@ -2492,6 +2780,7 @@
     {
         "title": "Savonlinna",
         "translation": "Савонлинна",
+        "domain": "fi",
         "cords": {
             "lat": 61.8683,
             "long": 28.8779
@@ -2500,6 +2789,7 @@
     {
         "title": "Oulu",
         "translation": "Оулу",
+        "domain": "fi",
         "cords": {
             "lat": 65.0095,
             "long": 25.4683
@@ -2508,6 +2798,7 @@
     {
         "title": "Rovaniemi",
         "translation": "Рованиеми",
+        "domain": "fi",
         "cords": {
             "lat": 66.5026,
             "long": 25.735
@@ -2516,6 +2807,7 @@
     {
         "title": "Stockholm",
         "translation": "Стокгольм",
+        "domain": "se",
         "cords": {
             "lat": 59.325,
             "long": 18.0707
@@ -2524,6 +2816,7 @@
     {
         "title": "Helsingborg",
         "translation": "Хельсингборг",
+        "domain": "se",
         "cords": {
             "lat": 56.0482,
             "long": 12.6973
@@ -2532,6 +2825,7 @@
     {
         "title": "Malmo",
         "translation": "Мальмё",
+        "domain": "se",
         "cords": {
             "lat": 55.6061,
             "long": 13.0003
@@ -2540,6 +2834,7 @@
     {
         "title": "Gotoborg",
         "translation": "Гётеборг",
+        "domain": "se",
         "cords": {
             "lat": 57.7071,
             "long": 11.9667
@@ -2548,6 +2843,7 @@
     {
         "title": "Halmstad",
         "translation": "Хальмстад",
+        "domain": "se",
         "cords": {
             "lat": 56.674,
             "long": 12.857
@@ -2556,6 +2852,7 @@
     {
         "title": "Kalmar",
         "translation": "Кальмар",
+        "domain": "se",
         "cords": {
             "lat": 56.6645,
             "long": 16.3656
@@ -2564,6 +2861,7 @@
     {
         "title": "Jonkoping",
         "translation": "Йончепинг",
+        "domain": "se",
         "cords": {
             "lat": 57.7819,
             "long": 14.1598
@@ -2572,6 +2870,7 @@
     {
         "title": "Orebro",
         "translation": "Эребру",
+        "domain": "se",
         "cords": {
             "lat": 59.2739,
             "long": 15.2153
@@ -2580,6 +2879,7 @@
     {
         "title": "Vasteros",
         "translation": "Вестерос",
+        "domain": "se",
         "cords": {
             "lat": 59.611,
             "long": 16.5427
@@ -2588,6 +2888,7 @@
     {
         "title": "Uppsala",
         "translation": "Упсала",
+        "domain": "se",
         "cords": {
             "lat": 59.8581,
             "long": 17.6326
@@ -2596,6 +2897,7 @@
     {
         "title": "Gavle",
         "translation": "Евле",
+        "domain": "se",
         "cords": {
             "lat": 60.6745,
             "long": 17.1417
@@ -2604,6 +2906,7 @@
     {
         "title": "Hudiksvall",
         "translation": "Худиксвалль",
+        "domain": "se",
         "cords": {
             "lat": 61.7261,
             "long": 17.1035
@@ -2612,6 +2915,7 @@
     {
         "title": "Ostersund",
         "translation": "Эстерсунд",
+        "domain": "se",
         "cords": {
             "lat": 63.1791,
             "long": 14.635
@@ -2620,6 +2924,7 @@
     {
         "title": "Umea",
         "translation": "Умео",
+        "domain": "se",
         "cords": {
             "lat": 63.8278,
             "long": 20.2499
@@ -2628,6 +2933,7 @@
     {
         "title": "Lycksele",
         "translation": "Люкселе",
+        "domain": "se",
         "cords": {
             "lat": 64.5952,
             "long": 18.675
@@ -2636,6 +2942,7 @@
     {
         "title": "Lulea",
         "translation": "Лулео",
+        "domain": "se",
         "cords": {
             "lat": 65.5826,
             "long": 22.1485
@@ -2644,6 +2951,7 @@
     {
         "title": "Kiruna",
         "translation": "Кируна",
+        "domain": "se",
         "cords": {
             "lat": 67.8525,
             "long": 20.2329
@@ -2652,6 +2960,7 @@
     {
         "title": "Pajala",
         "translation": "Паяла",
+        "domain": "se",
         "cords": {
             "lat": 67.2119,
             "long": 23.3665
@@ -2660,6 +2969,7 @@
     {
         "title": "Oslo",
         "translation": "Осло",
+        "domain": "no",
         "cords": {
             "lat": 59.9169,
             "long": 10.728
@@ -2668,6 +2978,7 @@
     {
         "title": "Drammen",
         "translation": "Драммен",
+        "domain": "no",
         "cords": {
             "lat": 59.7441,
             "long": 10.2049
@@ -2675,7 +2986,8 @@
     },
     {
         "title": "Bergen",
-        "translation": "Бремен",
+        "translation": "Берген",
+        "domain": "no",
         "cords": {
             "lat": 60.3926,
             "long": 5.3195
@@ -2684,6 +2996,7 @@
     {
         "title": "Kristianstad",
         "translation": "Кристанстад",
+        "domain": "no",
         "cords": {
             "lat": 58.1461,
             "long": 7.9948
@@ -2692,6 +3005,7 @@
     {
         "title": "Stavanger",
         "translation": "Ставангер",
+        "domain": "no",
         "cords": {
             "lat": 58.9713,
             "long": 5.7332
@@ -2700,6 +3014,7 @@
     {
         "title": "Sandefjord",
         "translation": "Сандерфьорд",
+        "domain": "no",
         "cords": {
             "lat": 59.13,
             "long": 23.3665
@@ -2708,6 +3023,7 @@
     {
         "title": "Kongsvinger",
         "translation": "Конгсвингер",
+        "domain": "no",
         "cords": {
             "lat": 60.1995,
             "long": 12.0119
@@ -2716,6 +3032,7 @@
     {
         "title": "Hamar",
         "translation": "Хамар",
+        "domain": "no",
         "cords": {
             "lat": 60.7937,
             "long": 11.0742
@@ -2724,6 +3041,7 @@
     {
         "title": "Rena",
         "translation": "Рена",
+        "domain": "no",
         "cords": {
             "lat": 61.1324,
             "long": 11.3724
@@ -2732,6 +3050,7 @@
     {
         "title": "Trondheim",
         "translation": "Тронхейм",
+        "domain": "no",
         "cords": {
             "lat": 63.4305,
             "long": 10.3951
@@ -2740,6 +3059,7 @@
     {
         "title": "Tromso",
         "translation": "Тромсё",
+        "domain": "no",
         "cords": {
             "lat": 69.6487,
             "long": 18.9565
@@ -2748,6 +3068,7 @@
     {
         "title": "Reykjavík",
         "translation": "Рейкьявик",
+        "domain": "no",
         "cords": {
             "lat": 64.1481,
             "long": -21.94
@@ -2756,6 +3077,7 @@
     {
         "title": "Grindavík",
         "translation": "Гриндавик",
+        "domain": "no",
         "cords": {
             "lat": 63.8368,
             "long": -22.438
@@ -2764,6 +3086,7 @@
     {
         "title": "Kopavogur",
         "translation": "Копавогур",
+        "domain": "no",
         "cords": {
             "lat": 64.1116,
             "long": -21.9083
@@ -2772,6 +3095,7 @@
     {
         "title": "London",
         "translation": "Лондон",
+        "domain": "gb",
         "cords": {
             "lat": 51.508,
             "long": -0.0759
@@ -2780,6 +3104,7 @@
     {
         "title": "Birmingham",
         "translation": "Бирмингем",
+        "domain": "gb",
         "cords": {
             "lat": 52.4797,
             "long": -1.90259
@@ -2788,6 +3113,7 @@
     {
         "title": "Manchester",
         "translation": "Манчестер",
+        "domain": "gb",
         "cords": {
             "lat": 53.4852,
             "long": -2.2443
@@ -2796,6 +3122,7 @@
     {
         "title": "Liverpool",
         "translation": "Ливерпуль",
+        "domain": "gb",
         "cords": {
             "lat": 53.407,
             "long": -2.9948
@@ -2804,6 +3131,7 @@
     {
         "title": "Leeds",
         "translation": "Лидс",
+        "domain": "gb",
         "cords": {
             "lat": 53.8006,
             "long": -1.5467
@@ -2812,6 +3140,7 @@
     {
         "title": "Sheffield",
         "translation": "Шеффилд",
+        "domain": "gb",
         "cords": {
             "lat": 53.3831,
             "long": -1.4693
@@ -2820,6 +3149,7 @@
     {
         "title": "Newcastle",
         "translation": "Ньюкасл",
+        "domain": "gb",
         "cords": {
             "lat": 54.97,
             "long": -1.6114
@@ -2828,6 +3158,7 @@
     {
         "title": "Durham",
         "translation": "Дурхам",
+        "domain": "gb",
         "cords": {
             "lat": 54.7754,
             "long": -1.5763
@@ -2836,6 +3167,7 @@
     {
         "title": "Edinburgh",
         "translation": "Эдинбург",
+        "domain": "gb",
         "cords": {
             "lat": 55.9485,
             "long": -3.1998
@@ -2844,6 +3176,7 @@
     {
         "title": "Glasgow",
         "translation": "Глазго",
+        "domain": "gb",
         "cords": {
             "lat": 55.8604,
             "long": -4.2578
@@ -2852,6 +3185,7 @@
     {
         "title": "Aberdeen",
         "translation": "Абердин",
+        "domain": "gb",
         "cords": {
             "lat": 57.1476,
             "long": -2.0951
@@ -2860,6 +3194,7 @@
     {
         "title": "Dundee",
         "translation": "Данди",
+        "domain": "gb",
         "cords": {
             "lat": 56.4625,
             "long": -2.9711
@@ -2868,6 +3203,7 @@
     {
         "title": "Bristol",
         "translation": "Бристоль",
+        "domain": "gb",
         "cords": {
             "lat": 51.452,
             "long": -2.5868
@@ -2876,6 +3212,7 @@
     {
         "title": "Bath",
         "translation": "Бат",
+        "domain": "gb",
         "cords": {
             "lat": 51.3814,
             "long": -2.3588
@@ -2884,6 +3221,7 @@
     {
         "title": "Cardiff",
         "translation": "Кардифф",
+        "domain": "gb",
         "cords": {
             "lat": 51.4778,
             "long": -3.1777
@@ -2892,6 +3230,7 @@
     {
         "title": "Plymouth",
         "translation": "Плимут",
+        "domain": "gb",
         "cords": {
             "lat": 50.3647,
             "long": -4.1375
@@ -2900,6 +3239,7 @@
     {
         "title": "Norwich",
         "translation": "Норвич",
+        "domain": "gb",
         "cords": {
             "lat": 52.6286,
             "long": 1.2964
@@ -2908,6 +3248,7 @@
     {
         "title": "York",
         "translation": "Йорк",
+        "domain": "gb",
         "cords": {
             "lat": 53.9623,
             "long": -1.0821
@@ -2916,6 +3257,7 @@
     {
         "title": "Belfast",
         "translation": "Белфаст",
+        "domain": "gb",
         "cords": {
             "lat": 54.5966,
             "long": -5.93
@@ -2924,6 +3266,7 @@
     {
         "title": "Derry",
         "translation": "Дерри",
+        "domain": "gb",
         "cords": {
             "lat": 54.9939,
             "long": -7.3231
@@ -2932,6 +3275,7 @@
     {
         "title": "Dublin",
         "translation": "Дублин",
+        "domain": "ie",
         "cords": {
             "lat": 53.344,
             "long": -6.2672
@@ -2940,6 +3284,7 @@
     {
         "title": "Cork",
         "translation": "Корк",
+        "domain": "ie",
         "cords": {
             "lat": 51.8985,
             "long": -8.4756
@@ -2948,6 +3293,7 @@
     {
         "title": "Limerick",
         "translation": "Лимерик",
+        "domain": "ie",
         "cords": {
             "lat": 52.6588,
             "long": -8.6316
@@ -2956,6 +3302,7 @@
     {
         "title": "Galway",
         "translation": "Голуэй",
+        "domain": "ie",
         "cords": {
             "lat": 53.2718,
             "long": -9.0532
@@ -2964,6 +3311,7 @@
     {
         "title": "Waterford",
         "translation": "Вотерфорд",
+        "domain": "ie",
         "cords": {
             "lat": 52.2605,
             "long": -7.1059
@@ -2972,6 +3320,7 @@
     {
         "title": "Athlone",
         "translation": "Атлон",
+        "domain": "ie",
         "cords": {
             "lat": 53.4235,
             "long": -7.9431
@@ -2980,6 +3329,7 @@
     {
         "title": "Wexford",
         "translation": "Уэксфорд",
+        "domain": "ie",
         "cords": {
             "lat": 52.3386,
             "long": -6.4622
@@ -2988,6 +3338,7 @@
     {
         "title": "Mullingar",
         "translation": "Маллингар",
+        "domain": "ie",
         "cords": {
             "lat": 53.5251,
             "long": -7.3424
@@ -2996,6 +3347,7 @@
     {
         "title": "Tullamore",
         "translation": "Талламмор",
+        "domain": "ie",
         "cords": {
             "lat": 53.2753,
             "long": -7.4921
@@ -3004,6 +3356,7 @@
     {
         "title": "Kilkenny",
         "translation": "Килкенни",
+        "domain": "ie",
         "cords": {
             "lat": 52.6518,
             "long": -7.2522
@@ -3012,6 +3365,7 @@
     {
         "title": "Naas",
         "translation": "Нейс",
+        "domain": "ie",
         "cords": {
             "lat": 53.2195,
             "long": -6.6612
@@ -3020,6 +3374,7 @@
     {
         "title": "Sligo",
         "translation": "Слайго",
+        "domain": "ie",
         "cords": {
             "lat": 54.2709,
             "long": -8.4697
@@ -3028,6 +3383,7 @@
     {
         "title": "Drogheda",
         "translation": "Дроэда",
+        "domain": "ie",
         "cords": {
             "lat": 53.7167,
             "long": -6.3501
@@ -3036,6 +3392,7 @@
     {
         "title": "Letterkenny",
         "translation": "Леттеркенни",
+        "domain": "ie",
         "cords": {
             "lat": 54.952,
             "long": -7.7353
