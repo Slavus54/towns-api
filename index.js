@@ -29,7 +29,7 @@ app.use(bodyParser.urlencoded({extended: true}))
 app.use(bodyParser.json())
 
 app.get('/', async (req, res) => {
-    res.sendStatus(200)
+    res.send(`There are ${towns.length} towns`)
 })
 
 app.get('/towns', async (req, res) => {

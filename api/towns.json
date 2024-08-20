@@ -9,6 +9,42 @@
         }
     },
     {
+        "title": "Borodyanka",
+        "translation": "Бородянка",
+        "domain": "ua",
+        "cords": {
+            "lat": 50.6438,
+            "long": 29.9331
+        }
+    },
+    {
+        "title": "Ipren",
+        "translation": "Ирпень",
+        "domain": "ua",
+        "cords": {
+            "lat": 50.5243,
+            "long": 30.2384
+        }
+    },
+    {
+        "title": "Borispol",
+        "translation": "Борисполь",
+        "domain": "ua",
+        "cords": {
+            "lat": 50.3496,
+            "long": 30.9552
+        }
+    },
+    {
+        "title": "Brovary",
+        "translation": "Бровары",
+        "domain": "ua",
+        "cords": {
+            "lat": 50.5114,
+            "long": 30.7904
+        }
+    },
+    {
         "title": "Poltava",
         "translation": "Полтава",
         "domain": "ua",
@@ -144,6 +180,24 @@
         }
     },
     {
+        "title": "Volchansk",
+        "translation": "Волчанск",
+        "domain": "ua",
+        "cords": {
+            "lat": 50.2935,
+            "long": 36.9368
+        }
+    },
+    {
+        "title": "Borovaya",
+        "translation": "Боровая",
+        "domain": "ua",
+        "cords": {
+            "lat": 49.3784,
+            "long": 37.627
+        }
+    },
+    {
         "title": "Kupyansk",
         "translation": "Купянск",
         "domain": "ua",
@@ -177,6 +231,15 @@
         "cords": {
             "lat": 48.5723,
             "long": 39.3083
+        }
+    },
+    {
+        "title": "Svatovo",
+        "translation": "Сватово",
+        "domain": "ua",
+        "cords": {
+            "lat": 49.41,
+            "long": 38.1501
         }
     },
     {
@@ -288,12 +351,48 @@
         }
     },
     {
+        "title": "Krolevets",
+        "translation": "Кролевец",
+        "domain": "ua",
+        "cords": {
+            "lat": 51.5519,
+            "long": 33.3803
+        }
+    },
+    {
+        "title": "Putivl",
+        "translation": "Путивль",
+        "domain": "ua",
+        "cords": {
+            "lat": 51.3341,
+            "long": 33.8657
+        }
+    },
+    {
         "title": "Okhtyrka",
         "translation": "Ахтырка",
         "domain": "ua",
         "cords": {
             "lat": 50.3003,
             "long": 34.8907
+        }
+    },
+    {
+        "title": "Lebedin",
+        "translation": "Лебедин",
+        "domain": "ua",
+        "cords": {
+            "lat": 50.5809,
+            "long": 34.4749
+        }
+    },
+    {
+        "title": "Trostyanets",
+        "translation": "Тростянец",
+        "domain": "ua",
+        "cords": {
+            "lat": 50.4814,
+            "long": 34.9667
         }
     },
     {
@@ -420,6 +519,24 @@
         "cords": {
             "lat": 47.2622,
             "long": 35.7092
+        }
+    },
+    {
+        "title": "Gulyaipole",
+        "translation": "Гуляйполе",
+        "domain": "ua",
+        "cords": {
+            "lat": 47.6685,
+            "long": 36.2564
+        }
+    },
+    {
+        "title": "Orekhov",
+        "translation": "Орехов",
+        "domain": "ua",
+        "cords": {
+            "lat": 47.5772,
+            "long": 35.7866
         }
     },
     {
