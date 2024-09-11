@@ -4,7 +4,7 @@
 
 Open REST API about european towns and context of them: old cathedrals and fortresses.    
 
-More than 480 european towns with coordinates and country TLD.   
+570 european towns with coordinates and country TLD.   
 
 You can use geocoding based on searching with *centum.js* library.    
 
