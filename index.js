@@ -13,9 +13,9 @@ const fortresses = require('./api/fortresses.json')
 const app = require('express')()
 const bodyParser = require('body-parser')
 const cors = require('cors')
-const Centum = require('centum.js')
+const {Codus} = require('codus.js')
 
-const centum = new Centum()
+const codus = new Codus()
 
 // options
 
@@ -50,7 +50,7 @@ app.get('/towns-fragment/:start&:end', async (req, res) => {
 app.get('/town/:title', async (req, res) => {
     let {title} = req.params
 
-    let town = towns.find(el => centum.search(el.title, title, process.env.SEARCH_PERCENT, true))
+    let town = towns.find(el => codus.search(el.title, title, process.env.SEARCH_PERCENT, true))
 
     if (town !== undefined) {
         res.send(town)
@@ -59,19 +59,19 @@ app.get('/town/:title', async (req, res) => {
     }
 })
 
-app.get('/timezones', async (req, res) => {
+app.get('/timezones', async (_, res) => {
     res.send(timezones)
 })
 
-app.get('/capitals', async (req, res) => {
+app.get('/capitals', async (_, res) => {
     res.send(capitals)
 })
 
-app.get('/cathedrals', async (req, res) => {
+app.get('/cathedrals', async (_, res) => {
     res.send(cathedrals)
 })
 
-app.get('/fortresses', async (req, res) => {
+app.get('/fortresses', async (_, res) => {
     res.send(fortresses)
 })
 
